@@ -1,0 +1,720 @@
+product_id,name,brand,os,ram,rom,battery,camera_primary,camera_secondary,chipset,gpu,display_size,screen,sensor,watt,nfc,jack_support,price
+100812,iPhone 16e 128GB | Chính hãng VN/A,Apple,High,Unknown,128,Unknown,52,12,Low,Mid,6.1,800,6,50,1,0,15390000.0
+100815,iPhone 16e 256GB | Chính hãng VN/A,Apple,High,Unknown,256,Unknown,52,12,Low,Mid,6.1,800,6,50,1,0,17590000.0
+100818,iPhone 16e 512GB | Chính hãng VN/A,Apple,High,Unknown,512,Unknown,52,12,Low,Mid,6.1,800,6,50,1,0,24590000.0
+100854,Nubia Neo 3 4G 8GB 128GB,Nubia,Unknown,8,128,6000,50,16,Low,Unknown,6.8,900,3,33,1,Unknown,3990000.0
+100855,Nubia Neo 3 5G 8GB 256GB,Nubia,High,8,256,6000,50,16,Low,Mid,6.8,900,4,33,1,Unknown,4990000.0
+101116,Samsung Galaxy M55 5G 8GB 256GB,Samsung,High,8,256,5000,123,50,High,Mid,6.7,120,5,45,1,0,6990000.0
+101591,Meizu Lucky 08 5G 12GB 256GB,Meizu,High,12,256,6000,108,8,High,Mid,6.78,450,6,33,Unknown,Unknown,5200000.0
+101873,Nothing Phone 3A 8GB 128GB,Unknown,High,8,128,5000,50,32,High,Unknown,6.77,387,4,50,1,0,8490000.0
+102183,vivo Y04 6GB 128GB,Vivo,High,6,128,5500,13,5,Low,Mid,6.74,570,3,15,0,1,3720000.0
+102184,vivo Y04 4GB 64GB,Vivo,High,4,64,5500,13,5,Low,Mid,6.74,570,0,15,0,1,2940000.0
+102241,Nubia V70 Max 4GB 128GB,Nubia,High,4,128,6000,50,8,Low,Mid,6.9,254,3,22.5,1,Unknown,2390000.0
+102242,Nubia V70 Max 6GB 128GB,Nubia,High,6,128,6000,50,8,Low,Mid,6.9,254,3,22.5,1,Unknown,2590000.0
+102243,Nubia V70 Design 8GB 128GB,Nubia,High,8,128,5000,50,16,Low,Mid,6.7,264,3,22.5,1,Unknown,2790000.0
+102428,Xiaomi Redmi Note 14 5G 8GB 256GB,Xiaomi,Unknown,8,256,5110,108,20,High,Mid,6.67,960,0,45,1,1,6450000.0
+103058,Điện thoại Itel P55 Plus NFC 8GB 256GB,Itel,High,8,256,5000,50,8,Low,Unknown,6.6,90,0,45,1,Unknown,2990000.0
+104284,vivo V50 LITE 5G 12GB 256GB,Vivo,Unknown,12,256,6500,50,32,Low,Unknown,6.77,120,0,90,1,Unknown,10310000.0
+104478,Xiaomi POCO C71 4GB 128GB,Xiaomi,High,4,128,5200,32,8,Low,Mid,6.88,450,0,15,0,1,2650000.0
+105401,Điện thoại Nubia Z70S Ultra 5G 12GB 256GB,Nubia,High,12,256,6600,64,16,High,High,6.82,430,4,80,1,Unknown,19990000.0
+105540,vivo Y28 8GB 256GB,Vivo,High,8,256,6000,50,8,Medium,Mid,6.68,264,4,44,0,1,5580000.0
+105724,Điện thoại Nubia Z70 Ultra 5G 12GB 256GB,Nubia,High,12,256,6150,64,16,High,Unknown,6.85,144,3,80,1,Unknown,16990000.0
+105896,ZTE Nubia Z60S Pro 16GB 512GB,ZTE,High,16,512,5100,50,16,High,Unknown,6.78,452,4,80,1,Unknown,11990000.0
+106045,OPPO Reno14 5G 12GB 256GB,Oppo,High,12,256,6000,50,50,High,High,6.59,120,4,80,1,0,15700000.0
+106050,OPPO Reno14 F 5G 8GB 256GB,Oppo,High,8,256,6000,50,32,High,Mid,6.57,120,4,45,1,0,10300000.0
+106530,Nothing Phone 3A 12GB 256GB,Unknown,High,12,256,5000,50,32,High,Unknown,6.77,387,4,50,1,0,9690000.0
+106783,Xiaomi POCO X7 5G 12GB 512GB,Xiaomi,Unknown,12,512,5110,50,20,Low,High,6.67,500,5,45,1,Unknown,7950000.0
+106790,Điện thoại Nubia A36 4GB 64GB,Nubia,High,4,64,5000,13,5,Low,Mid,6.75,90,4,Unknown,0,1,1890000.0
+106792,Điện thoại Nubia A56 4GB 128GB,Nubia,High,4,128,5000,13,8,Low,Mid,6.75,90,4,Unknown,0,1,2190000.0
+107053,OPPO A3X 6GB 128GB  ,Oppo,High,6,128,5100,78,5,High,Mid,6.67,90,5,45,0,1,4210000.0
+107688,Tecno Pova 7 8GB 256GB,Tecno,High,8,256,7000,108,8,Medium,Mid,6.78,900,3,45,1,1,4490000.0
+107689,Infinix Note 50 8GB 256GB,Infinix,Unknown,8,256,5200,50,13,Medium,Unknown,6.78,144,0,45,Unknown,Unknown,5590000.0
+107690,Infinix Note 50 Pro 12GB 256GB,Infinix,Unknown,12,256,Unknown,50,32,Medium,Unknown,6.78,144,0,90,Unknown,Unknown,6560000.0
+107718,Sony Xperia 1 VII 12GB 256GB,Sony,High,12,256,5000,52,12,High,Unknown,6.5,100,3,Unknown,1,1,33490000.0
+108305,Samsung Galaxy Z Fold7 12GB 512GB,Samsung,Unknown,12,512,4400,200,10,High,Unknown,8,120,4,Unknown,1,0,46990000.0
+108306,Samsung Galaxy Z Flip7 12GB 512GB,Samsung,Unknown,12,512,4300,50,10,Low,Unknown,6.9,948,4,Unknown,1,0,29990000.0
+108829,OPPO A5i Pro 8GB 128GB,Oppo,High,8,128,6000,50,5,High,Mid,6.67,720,4,45,1,1,5290000.0
+108833,OPPO A5i 4GB 128GB,Oppo,High,4,128,5100,8,5,High,Mid,6.67,720,3,45,Unknown,1,3490000.0
+109158,TECNO Spark Go 2 4GB 64GB,Tecno,High,4,64,5000,13,8,Low,Mid,6.67,720,3,15,0,Unknown,2290000.0
+109159,Samsung Galaxy A17 5G 8GB 128GB,Samsung,High,8,128,5000,50,13,Low,Mid,6.7,800,5,25,1,0,5990000.0
+109160,Samsung Galaxy A17 8GB 128GB,Samsung,High,8,128,5000,50,13,Medium,Mid,6.7,800,5,25,1,0,4990000.0
+109161,Samsung Galaxy A07 4GB 128GB,Samsung,High,4,128,5000,50,8,Medium,Mid,6.7,480,2,25,0,1,3190000.0
+109763,Masstel Fami 8 4G,Masstel,Unknown,Unknown,128,1400,Unknown,Unknown,Low,Unknown,1.77,262,0,Unknown,Unknown,1,570000.0
+109783,Điện thoại Masstel S7 4GB 128GB,Masstel,High,4,128,5000,13,5,Low,Low,6.745,260,1,10,Unknown,1,1890000.0
+110905,Masstel izi T5 plus 4G,Masstel,Unknown,Unknown,Unknown,2300,Unknown,Unknown,Low,Unknown,2.4,320,0,Unknown,Unknown,1,530000.0
+110948,TECNO Spark 40 Pro+ 8GB 256GB (Chỉ có tại CellphoneS),Tecno,High,8,256,5200,50,13,Medium,Unknown,6.78,144,3,Unknown,Unknown,Unknown,4890000.0
+110949,TECNO Spark 40 6GB 128GB,Tecno,High,6,128,5200,50,8,Medium,Mid,6.67,700,3,45,1,1,2990000.0
+110984,Điện thoại trẻ em Masstel Alfa 5,Masstel,Unknown,Unknown,128,1750,0.3,Unknown,Low,Unknown,3.5,262,0,Unknown,Unknown,Unknown,1390000.0
+111461,HONOR X5b 4GB 64GB ,Honor,High,4,64,5200,13,5,Medium,Unknown,6.56,Unknown,3,Unknown,0,1,2160000.0
+111482,HONOR X6c 6GB 128GB ,Honor,High,6,128,5300,50,5,Medium,Mid,6.6,16,3,Unknown,1,1,3890000.0
+111488,HONOR X7c 8GB 256GB ,Honor,High,8,256,6000,108,8,Medium,Mid,6.77,720,3,Unknown,0,1,4700000.0
+111494,HONOR X9c 5G 12GB 256GB ,Honor,High,12,256,6600,108,16,High,Unknown,6.78,100,5,Unknown,1,Unknown,7290000.0
+111552,HONOR 400 5G 12GB 256GB ,Honor,High,12,256,6000,200,50,High,Mid,6.55,7,4,Unknown,1,Unknown,11990000.0
+111553,HONOR 400 Lite 5G 12GB 256GB,Honor,High,12,256,5230,108,16,High,Mid,6.7,100,4,Unknown,1,Unknown,8130000.0
+111557,TECNO Spark 40 8GB 256GB,Tecno,High,8,256,5200,50,8,Medium,Mid,6.67,700,3,45,1,1,3590000.0
+111764,HONOR 400 5G 12GB 512GB ,Honor,High,12,512,6000,200,50,High,Mid,6.55,7,4,Unknown,1,Unknown,12990000.0
+111767,HONOR Magic V5,Honor,High,16,512,5820,64,20,High,High,6.43,7,6,66,1,0,44990000.0
+111972,OPPO A6 Pro 8GB 256GB,Oppo,High,8,256,7000,50,16,Medium,Mid,6.57,1,4,80,1,1,7990000.0
+11214,Samsung Galaxy J4 Chính hãng,Samsung,Low,Unknown,16,3000,28,5,Low,Low,5.5,Unknown,0,Unknown,Unknown,Unknown,2790000.0
+112185,Samsung Galaxy S25 FE 8GB 512GB,Samsung,High,8,512,4900,50,12,Low,Unknown,6.7,16,3,2,1,0,17390000.0
+112580,iPhone 17 256GB | Chính hãng,Apple,High,Unknown,256,Unknown,120,18,High,Mid,6.3,460,5,25,1,0,24990000.0
+112583,iPhone 17 512GB | Chính hãng,Apple,High,Unknown,512,Unknown,120,18,High,Mid,6.3,3,6,25,1,0,31490000.0
+112584,iPhone Air 256GB | Chính hãng,Apple,High,Unknown,256,Unknown,48,18,Low,Mid,6.5,460,5,20,1,0,31990000.0
+112585,iPhone Air 512GB | Chính hãng,Apple,High,Unknown,512,Unknown,48,18,Low,Mid,6.5,460,5,20,1,0,37490000.0
+112586,iPhone 17 Pro 256GB | Chính hãng,Apple,High,Unknown,256,Unknown,120,18,Low,High,6.3,120,5,25,1,Unknown,34990000.0
+112587,iPhone Air 1TB | Chính hãng,Apple,High,Unknown,1024,Unknown,48,18,Low,Mid,6.5,460,5,20,1,0,42990000.0
+112588,iPhone 17 Pro Max 256GB | Chính hãng,Apple,High,Unknown,256,Unknown,120,18,Low,High,6.9,120,5,25,1,Unknown,37990000.0
+112589,iPhone 17 Pro 512GB | Chính hãng,Apple,High,Unknown,512,Unknown,120,18,Low,High,6.3,120,5,25,1,Unknown,41490000.0
+112590,iPhone 17 Pro 1TB | Chính hãng,Apple,High,Unknown,1024,Unknown,120,18,Low,High,6.3,120,5,25,1,Unknown,47990000.0
+112592,iPhone 17 Pro Max 512GB | Chính hãng,Apple,High,Unknown,512,Unknown,120,18,Low,High,6.9,120,5,25,1,Unknown,44490000.0
+112593,iPhone 17 Pro Max 1TB | Chính hãng,Apple,High,Unknown,1024,Unknown,120,18,Low,High,6.9,120,5,25,1,Unknown,50990000.0
+112594,iPhone 17 Pro Max 2TB | Chính hãng,Apple,High,Unknown,2048,Unknown,120,18,Low,High,6.9,120,5,25,1,Unknown,63990000.0
+114043,Xiaomi 15 5G 12GB 512GB,Xiaomi,Unknown,12,512,5240,115,90,High,Unknown,6.36,300,6,90,1,Unknown,19490000.0
+114524,Điện thoại Meizu Mblu 22 Pro NFC 4GB 128GB ,Meizu,High,4,128,5000,50,8,Medium,Mid,6.79,Unknown,2,18,1,1,2590000.0
+114525,Điện thoại Meizu Mblu 22 Pro NFC 6GB 256GB ,Meizu,High,6,256,5000,50,5,Medium,Mid,6.79,Unknown,2,18,1,1,2890000.0
+115141,Điện thoại Meizu Mblu Note 21 Pro NFC 8GB 256GB ,Meizu,High,8,256,5000,64,13,Medium,Mid,6.78,550,0,30,1,Unknown,3990000.0
+116104,Masstel izi  22,Masstel,Unknown,Unknown,Unknown,1000,Unknown,Unknown,Low,Unknown,1.77,262,0,Unknown,Unknown,Unknown,470000.0
+12069,Xiaomi POCO F1 64GB,Xiaomi,Low,Unknown,64,4000,12,1080,High,Mid,6.18,Unknown,0,Unknown,0,Unknown,7990000.0
+12436,iPhone XR 64GB I Chính hãng VN/A ,Apple,Low,3,64,2942,12,7,High,High,6.1,326,6,15,1,0,11990000.0
+12443,iPhone XR 128GB I Chính hãng VN/A ,Apple,Low,3,128,2942,12,7,High,High,6.1,True-tone,6,15,1,0,16990000.0
+12608,Samsung Galaxy J4 Plus,Samsung,Low,Unknown,16,3300,13,5,Low,Low,6,Unknown,0,Unknown,Unknown,Unknown,3490000.0
+12678,Samsung Galaxy A7 (2018),Samsung,Low,Unknown,64,3300,120,24,Medium,Unknown,6,Unknown,0,Unknown,Unknown,Unknown,6990000.0
+12721,Samsung Galaxy A9 (2018),Samsung,Low,Unknown,128,3720,24,24,Medium,Low,6.28,Unknown,0,Unknown,Unknown,Unknown,12490000.0
+12768,Realme 2 Pro 4GB Ram,Realme,Low,Unknown,64,3500,16,16,Medium,Low,6.3,Unknown,0,Unknown,0,Unknown,5290000.0
+12778,Samsung Galaxy S10,Samsung,Low,Unknown,128,3400,Unknown,Unknown,High,Unknown,6.1,Unknown,0,Unknown,Unknown,Unknown,20990000.0
+12780,Samsung Galaxy S10+ (Plus),Samsung,Low,Unknown,128,4100,Unknown,Unknown,High,High,6.4,Unknown,0,Unknown,Unknown,Unknown,12400000.0
+12781,Realme 2 Pro 8GB Ram,Realme,Low,Unknown,128,3500,16,16,Medium,Low,6.3,Unknown,0,Unknown,Unknown,Unknown,6990000.0
+13822,iPhone 7 Plus 32GB I Chính hãng VN/A ,Apple,Low,Unknown,32,2900,56,1080,High,High,5.5,Unknown,0,Unknown,Unknown,Unknown,9990000.0
+15291,Samsung Galaxy A20,Samsung,Low,3,32,4000,13,8,Medium,Unknown,6.4,Unknown,0,Unknown,Unknown,Unknown,4190000.0
+15319,Xiaomi Redmi 7 3GB Ram,Xiaomi,Low,3,32,4000,12,8,Medium,Low,6.26,Unknown,0,Unknown,Unknown,Unknown,3690000.0
+15330,Redmi Note 7 32GB,Xiaomi,Mid,Unknown,32,4000,48,13,Medium,Low,6.3,Unknown,0,Unknown,Unknown,Unknown,3100000.0
+15344,Samsung Galaxy S10e,Samsung,Low,Unknown,128,3100,26,26,High,High,5.8,Unknown,0,Unknown,Unknown,Unknown,15990000.0
+15841,Huawei P30,Huawei,Low,8,128,3650,40,32,High,High,6.1,Unknown,0,Unknown,1,Unknown,17990000.0
+15842,Huawei P30 Pro,Huawei,Low,8,256,4200,40,32,High,High,6.4,Unknown,0,Unknown,1,Unknown,23990000.0
+15843,Huawei P30 Lite,Huawei,Low,6,128,4300,24,32,Low,Mid,6.15,Unknown,0,Unknown,1,Unknown,7490000.0
+16337,Oppo A1K,Oppo,Unknown,2,32,4000,8,5,Low,Low,6.1,Unknown,0,Unknown,Unknown,Unknown,2690000.0
+16509,Oppo F11 Pro 128GB,Oppo,Low,6,128,4000,48,16,Low,High,6.5,Unknown,0,Unknown,Unknown,Unknown,8490000.0
+16520,iPhone 11 64GB | Chính hãng VN/A ,Apple,Low,4,64,3110,12,12,High,High,6.1,True-tone,6,18,1,0,8490000.0
+17016,OPPO Reno5,Oppo,Mid,8,128,4310,64,44,Medium,Mid,6.43,90,6,50,0,1,8690000.0
+17018,OPPO Reno7 5G (8GB 256GB),Oppo,Mid,8,256,4500,120,32,Medium,Mid,6.4,600,5,65,1,1,7590000.0
+17919,Nokia 105 2 SIM (2019),Nokia,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,1.77,Unknown,0,2.75,Unknown,1,520000.0
+18071,Nokia 220 4G,Nokia,Unknown,Unknown,128,1450,0.3,Unknown,Low,Unknown,2.8, QVGA ,0,Unknown,Unknown,1,970000.0
+18090,Huawei Nova 5T,Huawei,Low,8,128,3750,48,32,High,High,6.26,Unknown,0,Unknown,Unknown,Unknown,8990000.0
+18124,Oppo Reno 2F,Oppo,Low,8,128,4000,48,16,Low,High,6.53,Unknown,0,Unknown,Unknown,Unknown,7490000.0
+18212,Xiaomi Redmi Note 8,Xiaomi,Low,4,64,4000,48,Unknown,Medium,Unknown,6.3,Unknown,0,Unknown,Unknown,Unknown,4150000.0
+18358,iPhone 11 Chính hãng Vàng,Apple,Low,4,64,Unknown,3,Unknown,Unknown,Unknown,5.8,Unknown,0,Unknown,Unknown,Unknown,11990000.0
+18388,iPhone 11 128GB | Chính hãng VN/A ,Apple,Low,4,128,3110,12,12,High,High,6.1,True-tone,6,18,1,0,13990000.0
+18395,iPhone 11 256GB I Chính hãng VN/A ,Apple,Low,4,256,3110,12,12,High,High,6.1,True-tone,6,18,1,0,19990000.0
+18423,Apple iPhone 8 Plus 128GB I Chính hãng VN/A ,Apple,Low,3,128,2691,57,1080,High,High,5.5,3,6,15,1,0,13920000.0
+19053,Xiaomi Redmi Note 8 Pro 128GB,Xiaomi,Low,6,128,4500,64,20,Medium,Unknown,6.53,Unknown,0,Unknown,Unknown,Unknown,5990000.0
+19102,Xiaomi Redmi Note 8 32GB,Xiaomi,Low,3,32,4000,48,13,Medium,Mid,6.3,Unknown,0,Unknown,Unknown,Unknown,3350000.0
+19551,iPhone SE 2020 I Chính hãng VN/A ,Apple,Low,3,64,1821,12,7,High,High,4.7,True-tone,6,18,1,0,8990000.0
+19669,Samsung Galaxy A51,Samsung,Mid,6,128,4000,48,32,High,High,6.5,3,6,15,1,1,7990000.0
+19670,Samsung Galaxy A51 6GB,Samsung,Mid,Unknown,64,4000,48,32,High,Unknown,6.5,Unknown,0,Unknown,1,Unknown,7990000.0
+20344,Nokia 105 (2019) 1 SIM,Nokia,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,1.77,Unknown,0,Unknown,Unknown,Unknown,440000.0
+20645,Samsung Galaxy Note 10 Lite,Samsung,Mid,8,128,4500,12,32,High,High,6.7,Unknown,0,Unknown,1,Unknown,11490000.0
+20711,Xiaomi Mi Note 10 Pro,Xiaomi,Low,8,256,5260,108,32,Medium,Mid,6.47,Unknown,0,Unknown,Unknown,Unknown,14990000.0
+21178,OPPO Find X2,Oppo,Mid,12,256,4200,48,32,High,Mid,6.7,120,0,65,Unknown,Unknown,9990000.0
+21487,Vsmart Active 3 6GB Ram,Vsmart,Low,Unknown,64,4020,48,16,Low,Unknown,6.39,Unknown,0,Unknown,Unknown,Unknown,2990000.0
+21547,Samsung Galaxy A71,Samsung,Mid,8,128,4500,64,32,Medium,Mid,6.7,60,6,25,1,1,10490000.0
+21611,Samsung Galaxy S20+ (Plus),Samsung,Mid,8,128,4500,64,26,Low,High,6.7,120,6,25,1,0,23990000.0
+21630,Samsung Galaxy S20 Ultra,Samsung,Mid,12,128,5000,108,40,Low,High,6.9,120,6,45,1,0,29990000.0
+21781,Samsung Galaxy Z Flip,Samsung,Mid,8,256,3300,123,80,High,Unknown,6.7,Unknown,0,Unknown,Unknown,Unknown,36000000.0
+22699,Samsung Galaxy Note 20,Samsung,Mid,8,256,4300,120,26,Low,High,6.7,Unknown,0,Unknown,Unknown,Unknown,23990000.0
+23126,Xiaomi Redmi Note 9s 4G 64GB,Xiaomi,Mid,4,64,5020,48,16,High,Mid,6.66,10,6,18,0,1,4450000.0
+23499,iPhone SE 2020 128GB I Chính hãng VN/A ,Apple,Low,3,128,1750,12,7,High,High,4.7,True-tone,6,18,1,0,9590000.0
+23584,ASUS ROG Phone 3 12GB 512GB Chính hãng,ASUS,Mid,12,512,6000,125,24,High,Mid,6.59,650,6,30,1,0,16990000.0
+24606,OPPO Reno4 Pro,Oppo,Mid,8,256,4000,586,616,High,Mid,6.5,90,6,65,0,1,7990000.0
+24746,iPhone 12 64GB | Chính hãng VN/A ,Apple,Low,4,64,Unknown,120,23,High,High,6.1,10,6,20,1,0,7990000.0
+25159,Xiaomi Redmi 9A,Xiaomi,Mid,2,32,5000,13,5,Medium,Low,6.53,Unknown,2,10,0,1,1850000.0
+25168,Vsmart Aris 6GB/64GB,Vsmart,Mid,6,64,4000,64,20,Medium,Mid,6.39,Unknown,0,Unknown,Unknown,Unknown,4290000.0
+25174,Xiaomi Redmi 9C,Xiaomi,Mid,4,128,5000,13,5,Medium,Low,6.53,Unknown,0,Unknown,Unknown,Unknown,2850000.0
+25214,Samsung Galaxy Note 20 Ultra,Samsung,Mid,8,256,4500,108,10,Low,High,6.9,120,6,25,1,0,29990000.0
+25217,Samsung Galaxy Note 20 Ultra 5G 256GB,Samsung,Mid,12,256,4500,108,26,Low,High,6.9,120,6,25,1,0,32990000.0
+25231,Xiaomi Redmi 9C 3GB - 64GB,Xiaomi,Mid,3,64,5000,13,5,Medium,Low,6.53,Unknown,2,10,0,1,2890000.0
+25249,Vsmart Joy 4,Vsmart,Mid,3,64,5000,16,13,Medium,Mid,6.5,Unknown,0,Unknown,Unknown,Unknown,3290000.0
+25251,Vsmart Live 4,Vsmart,Mid,6,64,5000,48,30,Medium,Mid,6.5,400,0,Unknown,Unknown,1,4290000.0
+25294,Nokia 2.4,Nokia,Mid,2,32,4500,13,5,Low,Low,6.5,Unknown,2,Unknown,0,1,2690000.0
+25623,Realme C12,Realme,Unknown,3,32,6000,13,5,Medium,Low,6.52,Corning Gorilla Glass,3,Unknown,0,1,3490000.0
+25691,Vsmart Aris Pro,Vsmart,Mid,8,128,4000,64,20,Medium,Mid,6,Unknown,0,Unknown,Unknown,Unknown,4490000.0
+25693,Nokia 3.4,Nokia,Mid,4,64,4000,13,8,High,Mid,6.39,Unknown,6,10,0,1,3690000.0
+25728,Xiaomi POCO X3 NFC 128GB,Xiaomi,Mid,6,128,5160,119,20,High,Mid,6.66,120,6,33,1,1,5700000.0
+25736,Realme C15,Realme,Mid,4,64,6000,119,8,High,Mid,6.5,Corning Gorilla Glass,6,18,0,1,4190000.0
+25739,Realme 7 Pro,Realme,Mid,8,128,4500,682,32,Medium,Mid,6.44,3,6,65,0,1,8990000.0
+25863,iPhone 12 Pro 128GB I Chính hãng VN/A ,Apple,Low,6,128,Unknown,120,23,High,High,6.1,10,6,20,1,0,24990000.0
+25864,iPhone 12 Pro Max 128GB I Chính hãng VN/A ,Apple,Low,6,128,Unknown,120,23,High,High,6.7,800,6,20,1,0,23490000.0
+25891,Oppo A53,Oppo,Mid,4,128,5000,25,16,High,Mid,6.5,90,6,18,0,1,4490000.0
+25892,Samsung Galaxy S21 Ultra 5G,Samsung,Mid,12,128,5000,108,40,Low,High,6.8,120,6,25,1,0,30990000.0
+26050,Xiaomi Mi 10T Pro 5G,Xiaomi,Mid,8,256,5000,123,27,High,Mid,6.66,144,6,33,1,0,11200000.0
+26051,Samsung Galaxy A12,Samsung,Mid,4,128,5000,123,8,Medium,Low,6.5,60,6,15,0,1,4290000.0
+26206,Xiaomi Redmi Note 10,Xiaomi,Mid,6,128,5000,118,13,Medium,Mid,6.43,3,6,33,0,1,5100000.0
+26220,Vivo Y20S,Vivo,Mid,6,128,5000,13,8,High,Mid,6.5,Unknown,0,Unknown,Unknown,Unknown,4990000.0
+26230,Samsung Galaxy S20 FE 256GB,Samsung,Mid,8,256,4500,12,32,High,Mid,6.5,120,4,15,1,0,7200000.0
+26390,Realme C17,Realme,Mid,6,128,5000,119,8,High,Mid,6.5,90,6,18,0,1,5290000.0
+26435,Vivo V20 SE,Vivo,Unknown,8,128,4500,48,16,Medium,Mid,6.39,Unknown,0,Unknown,Unknown,Unknown,5490000.0
+26795,Samsung Galaxy A52,Samsung,Mid,8,128,4500,123,32,Medium,Mid,6.5,800,6,25,1,1,9290000.0
+26806,Oppo A93,Oppo,Mid,8,128,4000,119,16,Low,Mid,6.43,Unknown,6,18,0,1,6490000.0
+27153,Samsung Galaxy A72,Samsung,Mid,8,256,5000,123,32,Medium,Mid,6.7,90,6,25,1,0,11490000.0
+27199,iPhone 12 mini 64GB I Chính hãng VN/A ,Apple,Low,4,64,Unknown,120,23,High,High,5.4,10,6,20,1,0,9990000.0
+27350,OPPO A15,Oppo,Mid,3,32,4230,13,8,Low,Low,6.22,Unknown,6,10,0,1,3290000.0
+27435,iPhone 12 mini 128GB I Chính hãng VN/A ,Apple,Low,4,128,Unknown,120,23,High,High,5.4,10,6,20,1,0,14990000.0
+27441,iPhone 12 mini 256GB I Chính hãng VN/A ,Apple,Low,4,256,Unknown,120,23,High,High,5.4,20,6,20,1,0,10990000.0
+27451,iPhone 12 128GB | Chính hãng VN/A ,Apple,Low,4,128,Unknown,120,23,High,High,6.1,10,6,20,1,0,9990000.0
+27457,iPhone 12 256GB I Chính hãng VN/A ,Apple,Low,4,256,Unknown,120,23,High,High,6.1,10,6,20,1,0,23990000.0
+27463,iPhone 12 Pro 256GB | Chính hãng VN/A ,Apple,Low,6,256,Unknown,120,23,High,High,6.1,10,6,20,1,0,24990000.0
+27473,iPhone 12 Pro Max 256GB I Chính hãng VN/A ,Apple,Low,6,256,Unknown,120,23,High,High,6.7,800,6,20,1,0,27590000.0
+27478,iPhone 12 Pro Max 512GB I Chính hãng VN/A ,Apple,Low,6,512,Unknown,120,23,High,High,6.7,800,6,20,1,0,31000000.0
+27485,Vsmart Aris 8GB 128GB,Vsmart,Mid,8,128,4000,64,20,Medium,Mid,6.39,Unknown,0,Unknown,Unknown,Unknown,3999000.0
+27678,Xiaomi Mi 11 5G,Xiaomi,Mid,8,256,4600,123,27,High,Mid,6.81,120,6,55,1,Unknown,15200000.0
+27852,Nokia 5.4,Nokia,Mid,4,128,4000,48,16,High,Mid,6.39,400,5,10,0,1,4190000.0
+27977,OPPO Find X3 Pro 5G,Oppo,Mid,12,256,4500,110,32,High,Mid,6.7,120,6,65,1,0,18790000.0
+28025,Samsung Galaxy S21 Plus 5G,Samsung,Mid,8,128,4800,64,10,Low,High,6.7,120,6,25,1,0,25990000.0
+28219,Nokia 6300 4G,Nokia,Low,Unknown,4,1500,Unknown,Unknown,Unknown,Unknown,2.4,Unknown,0,Unknown,Unknown,Unknown,1290000.0
+28221,Nokia 215 4G,Nokia,Unknown,Unknown,128,1150,Unknown,Unknown,Low,Unknown,2.4,Unknown,0,Unknown,Unknown,Unknown,980000.0
+28517,Samsung Galaxy Z Fold3 5G 256GB,Samsung,Mid,12,256,4400,12,4,High,Mid,7.6,832,6,25,1,0,41990000.0
+28521,Samsung Galaxy S22 (8GB - 128GB),Samsung,Mid,8,128,3700,50,10,High,High,6.1,120,6,25,1,0,21990000.0
+28755,Xiaomi Redmi Note 10 Pro 8GB,Xiaomi,Mid,8,128,5020,118,16,Medium,Mid,6.66,120,6,33,0,1,6090000.0
+28765,Samsung Galaxy A32,Samsung,Mid,6,128,5000,123,20,Medium,Mid,6.4,800,6,15,1,1,6490000.0
+28771,Samsung Galaxy M32,Samsung,Mid,8,128,Unknown,64,20,Medium,Mid,6.4,800,4,25,1,1,4550000.0
+28776,Xiaomi Redmi 9T 6GB 128GB,Xiaomi,Mid,6,128,6000,120,27,High,Mid,6.53,Unknown,0,Unknown,Unknown,Unknown,4400000.0
+28959,ASUS ROG Phone 4,ASUS,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,0,Unknown,Unknown,Unknown,22990000.0
+28967,realme 8,Realme,Mid,8,128,5000,119,16,Medium,High,6.4,"Độ sáng tối đa 1000 nit, công nghệ Always on Display",6,33,0,1,7290000.0
+28971,Samsung Galaxy M52 (5G),Samsung,Mid,8,128,5000,64,32,Medium,Mid,6.7,120,4,25,1,0,7390000.0
+28979,Samsung Galaxy A73 (5G) 256GB - Chỉ có tại CellphoneS,Samsung,Mid,8,256,5000,108,32,Medium,Mid,6.7,800,4,25,1,0,12990000.0
+28990,Samsung Galaxy A53 (5G),Samsung,Mid,8,128,5000,123,32,Low,Mid,6.5,800,3,25,1,0,9990000.0
+29065,Vsmart Star 5,Vsmart,Mid,3,32,5000,13,8,Medium,Mid,6.53,16.7,4,15,Unknown,1,2690000.0
+29201,Samsung Galaxy Z Fold2 5G (Phiên bản mùa xuân),Samsung,Mid,12,256,4500,123,26,High,Mid,7.6,Unknown,0,Unknown,Unknown,Unknown,50000000.0
+29234,Xiaomi Redmi 9 4G,Xiaomi,Mid,4,64,5020,118,5,Medium,Mid,6.53,3,6,18,0,1,2950000.0
+29461,Vivo X60 Pro 5G,Vivo,Mid,12,256,4200,48,32,High,Mid,6.56,120,6,33,Unknown,0,9290000.0
+29598,Samsung Galaxy S20 FE 5G 128GB (Fan Edition),Samsung,Mid,8,128,4500,123,32,Low,High,6.5,Unknown,0,Unknown,Unknown,Unknown,15990000.0
+29614,Samsung Galaxy Note 20 Ultra 5G 512GB,Samsung,Mid,12,256,4500,108,26,Low,High,6.9,Unknown,0,Unknown,Unknown,Unknown,32990000.0
+29796,Xiaomi Mi 11 Lite 5G,Xiaomi,Mid,8,128,4250,119,20,Medium,Mid,6.55,90,6,33,Unknown,0,10490000.0
+29910,Xiaomi Mi 10T Pro 5G 8GB 128GB,Xiaomi,Mid,8,128,5000,123,27,High,Mid,6.66,144,6,33,1,0,10200000.0
+30004,ASUS ROG Phone 5 chính hãng,ASUS,Mid,16,256,6000,125,24,High,Mid,6.78,144,6,65,1,1,18990000.0
+30022,OPPO Reno5 5G,Oppo,Mid,8,128,4300,64,32,High,Mid,6.43,90,6,65,1,1,6990000.0
+30086,Xiaomi Redmi Note 10 Pro 6GB,Xiaomi,Mid,6,128,5020,118,16,Medium,Mid,6.66,120,6,33,0,1,5790000.0
+30133,Điện thoại OPPO A55 (4GB - 64GB),Oppo,Mid,4,64,5000,50,16,Medium,Mid,6.51,89.2,5,18,0,1,3490000.0
+30137,OPPO A94,Oppo,Mid,8,128,4310,48,32,Low,Mid,6.43,60,5,4,0,1,5690000.0
+30149,Realme C25,Realme,Mid,4,128,6000,48,8,Low,Mid,6.5,480,0,18,1,1,4690000.0
+30521,Xiaomi Redmi Note 10S,Xiaomi,Mid,8,128,5000,64,13,Medium,High,6.43,10,6,33,1,1,4690000.0
+30534,Oppo Reno5 F,Oppo,Mid,8,128,4310,48,44,Medium,Mid,6.43,90,6,30,0,1,8690000.0
+30759,Realme Narzo 30A,Realme,Mid,4,64,6000,13,8,Medium,Mid,6.5,570,4,18,0,1,3990000.0
+30765,Samsung Galaxy Z Flip3 5G 128GB,Samsung,Mid,8,128,3300,12,10,High,Mid,6.7,512,6,15,1,0,24990000.0
+30832,Samsung Galaxy S21 Plus 5G 256GB,Samsung,Mid,8,256,4800,64,10,Low,High,6.7,120,6,25,1,0,28990000.0
+30834,Samsung Galaxy S21 Ultra 5G 256GB,Samsung,Mid,12,256,5000,108,40,Low,High,6.8,120,6,25,1,0,33990000.0
+30838,Vsmart Bee 5,Vsmart,Low,Unknown,16,3000,8,5,Low,Low,6,Unknown,0,Unknown,Unknown,Unknown,1590000.0
+30997,OPPO A74,Oppo,Mid,8,128,5000,48,16,Medium,Mid,6.43,Unknown,5,33,Unknown,1,6990000.0
+31075,iPhone SE 2022 | Chính hãng VN/A,Apple,Mid,4,64,2018,12,7,High,Low,4.7,625,5,Unknown,1,0,9990000.0
+31297,Nokia G10,Nokia,Low,4,64,5050,13,8,Low,Unknown,6.5,20,3,5,Unknown,1,3690000.0
+31303,Xiaomi Redmi Note 10 4GB,Xiaomi,Mid,4,64,5000,118,13,Medium,Mid,6.43,3,6,33,0,1,4250000.0
+31467,OPPO Reno6 5G,Oppo,Mid,8,128,Unknown,64,85,High,Mid,6.4,430,5,65,1,0,8990000.0
+31495,iPhone 14 128GB  | Chính hãng VN/A,Apple,Mid,6,128,3279,12,12,High,High,6.1,60,4,20,1,0,13490000.0
+31586,Oneplus Nord N10 5G,OnePlus,Mid,6,128,4300,64,16,Medium,Mid,6.49,440,6,30,1,1,4590000.0
+31637,realme 8 5G,Realme,Mid,8,128,5000,48,16,Low,Mid,6.5,"Độ sáng tối đa 1000 nit, công nghệ Always on Display",5,18,0,1,7990000.0
+31739,Oppo A54,Oppo,Mid,4,128,5000,13,16,Low,Low,6.5,Unknown,3,18,0,1,4690000.0
+32075,Nokia C20,Nokia,Mid,2,32,3000,5,5,Low,Mid,6.5,60,4,5,0,1,2490000.0
+32199,OPPO A95,Oppo,Mid,8,128,5000,48,78,Medium,Mid,6.43,100,4,33,0,1,5090000.0
+32205,Nokia X10 5G,Nokia,Mid,6,128,4470,48,8,Low,Mid,6.66,450,6,18,1,1,5490000.0
+32364,Samsung Galaxy S22 Ultra 8GB 128GB,Samsung,Mid,8,128,5000,108,40,High,High,6.8,120,6,45,1,0,30990000.0
+32366,Samsung Galaxy S22 Plus (8GB + 128GB),Samsung,Mid,8,128,4500,50,10,High,High,6.6,120,4,45,1,0,16990000.0
+32681,Nubia Red Magic 6,Nubia,Mid,12,128,5050,64,8,High,Mid,6.8,630,6,30,1,1,16990000.0
+32724,Xiaomi Redmi 9T 4GB 64GB,Xiaomi,Mid,4,64,6000,120,27,High,Mid,6.53,Unknown,0,Unknown,Unknown,Unknown,3990000.0
+33100,Vsmart Star 5 4GB 64GB,Vsmart,Mid,4,64,5000,13,8,Medium,Mid,6.52,16.7,6,15,Unknown,1,3290000.0
+33485,iPhone 13 Pro Max 128GB | Chính hãng VN/A,Apple,Mid,6,128,4352,12,12,High,Mid,6.7,458,5,20,1,0,22990000.0
+33487,iPhone 13 Pro 128GB | Chính hãng VN/A,Apple,Mid,6,128,3095,12,12,High,Mid,6.1,460,5,20,1,0,21990000.0
+33618,Xiaomi Redmi Note 11,Xiaomi,Mid,4,64,5000,118,13,Medium,Mid,6.43,90,3,33,1,1,3890000.0
+33620,realme 9 Pro,Xiaomi,Mid,8,128,5000,64,16,Medium,Unknown,6.6,240,5,33,0,1,7990000.0
+33624,Realme 9 4G 8GB 128GB,Realme,Mid,8,128,5000,108,16,Medium,Mid,6.4,90,2,33,Unknown,1,6990000.0
+33626,Xiaomi Redmi Note 11 Pro,Xiaomi,Mid,8,128,5000,108,16,Medium,Mid,6.67,500,5,67,1,1,5790000.0
+33627,ASUS ROG Phone 6 16GB 512GB - Chỉ có tại CellphoneS,ASUS,Mid,16,512,6000,50,12,High,High,6.78,800,6,65,1,1,16990000.0
+33630,Xiaomi 12,Xiaomi,High,8,256,4500,50,32,High,Unknown,6.28,120,5,67,1,0,12590000.0
+33640,Samsung Galaxy A13 (4G),Samsung,Mid,4,128,5000,50,8,Low,Mid,6.6,600,5,15,0,1,4190000.0
+33644,Samsung Galaxy A33 (5G),Samsung,Mid,6,128,5000,48,13,Low,Mid,6.4,800,5,25,1,0,7290000.0
+34257,Realme C11 (2021),Realme,Unknown,2,32,5000,8,5,Low,Mid,6.5,400,5,10,0,1,2990000.0
+34503,OPPO Reno6 Z 5G,Oppo,Mid,8,128,4310,119,85,Medium,Mid,6.4,430,5,30,0,1,6590000.0
+34585,Nubia Red Magic 6R ,Nubia,Mid,8,128,4200,64,16,High,Mid,6.67,770,4,55,0,1,9490000.0
+34636,OnePlus Nord CE 5G,OnePlus,Mid,8,128,4500,64,16,Medium,Mid,6.43,90,4,30,1,Unknown,7590000.0
+34751,OnePlus 8T 5G,OnePlus,Mid,12,256,4500,48,16,High,Mid,6.55,120,5,18,1,1,10990000.0
+34805,Realme C21Y,Realme,Mid,3,32,5000,13,5,Medium,Mid,6.5,88,4,Unknown,1,1,3690000.0
+34886,OPPO A16,Oppo,Mid,3,32,5000,13,79,Medium,Mid,6.52,480,4,10,0,1,2790000.0
+35033, Xiaomi 11T,Xiaomi,Mid,8,128,5000,120,16,High,High,6.67,120,6,67,1,Unknown,10990000.0
+35034,Xiaomi 11T Pro,Xiaomi,Mid,12,256,5000,108,16,High,Mid,6.67,120,6,120,1,0,11990000.0
+35070,Điện thoại Nokia 105 4G 128MB,Nokia,Unknown,Unknown,128,1020,Unknown,Unknown,Unknown,Unknown,1.8,Unknown,0,Unknown,Unknown,1,590000.0
+35084,Nokia 110 4G,Nokia,Unknown,Unknown,128,1020,Unknown,Unknown,Unknown,Unknown,1.8,Unknown,0,Unknown,Unknown,1,840000.0
+35124,Nokia C30,Nokia,Mid,3,32,6000,13,5,Low,Mid,6.82,400,3,10,0,1,3450000.0
+35137,Xiaomi Poco X3 GT,Xiaomi,Mid,8,128,5000,64,16,High,High,6.6,120,6,67,1,0,6290000.0
+35147,ASUS ROG Phone 5S 16GB 256GB,ASUS,Mid,16,256,6000,64,24,High,Mid,6.78,144,6,65,1,1,17690000.0
+35566,Samsung Galaxy A52s 5G,Samsung,Mid,8,128,4500,64,32,Medium,Mid,6.5,800,5,25,1,1,10990000.0
+35567,Samsung Galaxy A03s,Samsung,Mid,4,64,5000,13,5,Low,Mid,6.5,400,3,7.75,0,1,3690000.0
+35686,Xiaomi Redmi 10 (4GB - 128GB),Xiaomi,Mid,4,128,5000,50,8,Medium,Mid,6.5,400,4,18,0,1,3650000.0
+35714,Vivo X70 Pro 5G,Vivo,Mid,12,256,4450,50,32,Low,High,6.56,120,5,44,Unknown,Unknown,11490000.0
+35895,Samsung Galaxy Z Fold3 5G 512GB,Samsung,Mid,12,512,4400,12,4,High,Mid,7.6,832,6,25,1,0,44990000.0
+35897,Samsung Galaxy Z Flip3 5G 256GB,Samsung,Mid,8,256,3300,12,10,High,Mid,6.7,512,6,15,1,1,26990000.0
+35907,vivo Y21,Vivo,Mid,4,64,5000,13,8,Low,Mid,6.51,60,0,18,Unknown,1,3990000.0
+35912,Vivo Y21S (4GB - 128GB),Vivo,Mid,4,128,5000,50,8,Medium,Mid,6.51,Unknown,0,18,Unknown,1,4990000.0
+35919,Vivo Y21S (6GB - 128GB),Vivo,Mid,6,128,5000,50,8,Medium,Mid,6.51,Unknown,0,18,Unknown,1,5490000.0
+35964,Nokia G50 (5G),Nokia,Mid,6,128,5000,48,8,Low,Mid,6.82,450,5,18,1,1,6490000.0
+36068,Xiaomi Redmi 10 (4GB - 64GB),Xiaomi,Mid,4,64,5000,50,8,Medium,Mid,6.5,400,4,18,1,1,3190000.0
+36079,ASUS ROG Phone 5S 16GB 512GB,ASUS,Mid,16,512,6000,64,24,High,Mid,6.78,144,4,65,1,1,17790000.0
+36158,Samsung Galaxy S20+ (Plus) - Cũ trầy xước,Samsung,Mid,8,128,4500,64,26,Low,High,6.7,120,6,25,1,0,7590000.0
+36242,iPhone 13 128GB | Chính hãng VN/A,Apple,Mid,4,128,3240,12,12,High,High,6.1,460,7,20,1,0,12090000.0
+36243,iPhone 13 mini 128GB | Chính hãng VN/A,Apple,Mid,4,128,2406,12,12,High,Mid,5.4,476,3,20,1,0,17490000.0
+36277,Vivo Y33S,Vivo,Mid,8,128,5000,50,16,Medium,Mid,6.58,Unknown,5,18,0,1,6690000.0
+36485,iPhone 13 256GB | Chính hãng VN/A,Apple,Mid,4,256,3240,12,12,High,High,6.1,460,7,20,1,0,14990000.0
+36486,iPhone 13 512GB | Chính hãng VN/A,Apple,Mid,4,512,3240,12,12,High,Mid,6.1,460,4,20,1,0,25500000.0
+36489,iPhone 13 mini 256GB I Chính hãng VN/A,Apple,Mid,4,256,2406,12,12,High,Mid,5.4,476,3,20,1,0,19990000.0
+36492,iPhone 13 Pro 256GB | Chính hãng VN/A,Apple,Mid,6,256,3095,12,12,High,High,6.1,460,5,20,1,0,24490000.0
+36493,iPhone 13 Pro 512GB | Chính hãng VN/A,Apple,Mid,6,512,3095,12,12,High,Mid,6.1,460,5,20,1,0,25490000.0
+36495,iPhone 13 Pro 1TB | Chính hãng VN/A,Apple,Mid,6,1024,3095,12,12,High,Mid,6.1,460,5,20,1,0,25990000.0
+36499,iPhone 13 Pro Max 256GB | Chính hãng VN/A,Apple,Mid,6,256,4352,12,12,High,Mid,6.7,458,5,20,1,0,23990000.0
+36501,iPhone 13 Pro Max 512GB I Chính hãng VN/A,Apple,Mid,6,512,4352,12,12,High,Mid,6.7,458,5,20,1,0,25990000.0
+36505,iPhone 13 Pro Max 1TB I Chính hãng VN/A,Apple,Mid,6,1024,4352,12,12,High,Mid,6.7,458,5,20,1,0,27990000.0
+36584,Nubia Red Magic 6s Pro Cyborg 12GB 128GB,Nubia,Mid,12,128,5050,120,8,High,Mid,6.8,700,5,66,1,1,13990000.0
+36639,Xiaomi 11 Lite 5G NE,Xiaomi,Mid,8,128,4250,64,20,Medium,Mid,6.55,90,5,33,1,0,9490000.0
+36664,OPPO A16K,Oppo,Mid,3,32,4230,80,76,Medium,Mid,6.52,480,5,10,0,1,2390000.0
+36815,realme C25Y,Realme,Mid,4,128,5000,50,8,Low,Mid,6.5,420,4,18,0,1,4990000.0
+36917,Samsung Galaxy A03 (3GB - 32GB),Samsung,Mid,3,32,5000,48,5,Low,Mid,6.5,400,3,7.8,0,1,2150000.0
+37244,realme C21Y 4GB 64GB ,Realme,Mid,4,64,5000,13,5,Medium,Mid,6.5,88.7,4,10,1,1,4290000.0
+37502,Nubia Red Magic 6R (12GB - 256GB),Nubia,Mid,12,256,4200,64,16,High,Mid,6.67,770,4,55,1,1,11990000.0
+38530,Vivo Y15s,Vivo,Mid,3,32,5000,13,8,Low,Mid,6.51,480,6,10,0,1,3490000.0
+38540,vivo V23e,Vivo,Mid,8,128,4050,64,50,Medium,Mid,6.44,570,6,44,0,1,5490000.0
+38610,Samsung Galaxy Z Fold4 256GB,Samsung,Mid,12,256,4400,50,10,High,Mid,7.6,120,6,25,1,0,22490000.0
+38621,vivo X80,Vivo,Mid,12,256,4500,50,32,High,High,6.78,"Độ sáng tối đa: 1500 nits, Mặt kính cảm ứng: Kính cường lực Schott Xensation UP",5,80,1,0,19990000.0
+39188,Xiaomi Redmi Note 11 Pro Plus 5G - Chỉ có tại CellphoneS,Xiaomi,Mid,8,256,4500,120,16,Medium,Mid,6.67,120,5,120,1,1,6090000.0
+39195,OPPO Reno 7 Pro,Oppo,Mid,12,256,4500,766,32,High,High,6.5,920,5,2,1,0,9990000.0
+39200,realme 9 Pro Plus,Realme,Mid,8,128,4500,119,16,Medium,Mid,6.4,90,4,60,1,1,6990000.0
+39405,realme 9i 6GB 128GB,Realme,Mid,6,128,5000,50,16,Medium,Mid,6.6,480,4,33,0,1,6490000.0
+39409,Xiaomi 12 Pro (5G),Xiaomi,High,12,256,4600,115,32,High,Unknown,6.73,120,6,120,1,0,14090000.0
+39411,Xiaomi 12T 8GB 128GB,Xiaomi,High,8,128,5000,108,20,High,Mid,6.67,500,6,120,1,0,5490000.0
+39499,Realme C11 2021 4GB 64GB ,Realme,Unknown,4,64,5000,8,5,Low,Mid,6.5,60,3,10,0,1,3790000.0
+40421,Samsung Galaxy Z Flip4 128GB,Samsung,Mid,8,128,3700,123,10,High,Mid,6.7,120,5,25,1,0,11190000.0
+41134,Xiaomi Redmi Note 11S,Xiaomi,High,8,128,5000,118,16,Medium,Mid,6.43,500,5,33,1,1,4990000.0
+41145,Xiaomi Redmi Note 11 Pro 5G,Xiaomi,High,8,128,5000,118,16,Medium,Mid,6.67,120,5,67,1,1,5590000.0
+41148,Xiaomi Redmi 10A,Xiaomi,Mid,2,32,5000,13,5,Medium,Mid,6.53,Unknown,3,10,0,1,1790000.0
+41213,Samsung Galaxy A23 4G,Samsung,Mid,4,128,5000,50,8,Medium,Mid,6.6,600,5,25,0,1,3600000.0
+41279,Nubia Red Magic 6s Pro Cyborg 16GB 256GB,Nubia,Mid,16,256,5050,120,8,High,Mid,6.8,700,5,66,1,1,15990000.0
+41290,Bphone A40,Unknown,Mid,4,64,5000,16,8,Medium,Unknown,6.66,Unknown,0,18,Unknown,Unknown,3600000.0
+41291,Bphone A50,Unknown,Mid,4,128,5000,16,8,Medium,Unknown,6.66,Unknown,0,18,Unknown,Unknown,4090000.0
+41498,Nokia C30 2GB 32GB,Nokia,Mid,2,32,6000,13,5,Low,Mid,6.82,400,0,10,0,1,1750000.0
+41500,Realme C25Y 4GB 64GB,Realme,Mid,4,64,5000,50,8,Low,Mid,6.5,60,0,18,0,1,4690000.0
+41676,Vivo V23 5G,Vivo,Mid,8,128,4200,64,50,Medium,Unknown,6.44,90,5,44,Unknown,0,12990000.0
+41921,Samsung Galaxy S21 FE 5G (8GB - 256GB),Samsung,Mid,8,256,4500,12,32,Low,High,6.4,120,6,25,1,0,8110000.0
+42153,Samsung Galaxy S21 FE 8GB 128GB,Samsung,Mid,8,128,4500,12,32,Low,High,6.4,120,6,25,1,0,8800000.0
+42337,OPPO Find X5 Pro 5G 12GB 256GB ,Oppo,Mid,12,256,5000,112,90,High,High,6.7,120,6,80,1,0,12290000.0
+42869,Samsung Galaxy S21 FE 5G (6GB - 128GB),Samsung,Mid,6,128,4500,12,32,Low,High,6.4,120,6,25,1,0,11490000.0
+42898,Xiaomi Redmi Note 11 128GB,Xiaomi,Mid,4,128,5000,118,13,Medium,Mid,6.43,90,3,33,1,1,4090000.0
+42901,realme C35 4GB 64GB,Realme,Mid,4,64,5000,50,8,Low,Mid,6.6,60,5,18,0,1,4290000.0
+42903,Nokia G21,Nokia,Mid,4,128,5050,50,8,Low,Mid,6.5,400,3,18,Unknown,1,4290000.0
+42971,Samsung Galaxy S22 (8GB - 256GB),Samsung,Mid,8,256,3700,50,10,High,High,6.1,120,6,25,1,0,14790000.0
+42972,Samsung Galaxy S22 Plus (8GB - 256GB),Samsung,Mid,8,256,4500,50,10,High,High,6.6,120,4,45,1,0,16990000.0
+42973,Samsung Galaxy S22 Ultra 12GB  256GB đã kích hoạt online - Chỉ có tại CellphoneS,Samsung,Mid,12,256,5000,108,40,High,High,6.8,120,6,45,1,0,18990000.0
+42974,Samsung Galaxy S22 Ultra (12GB - 512GB),Samsung,Mid,12,512,5000,108,40,High,High,6.8,120,6,Unknown,1,0,36990000.0
+43150,iPhone 15 Pro 128GB | Chính hãng VN/A,Apple,High,8,128,3274,77,12,High,High,6.1,460,7,20,1,0,22990000.0
+43151,iPhone 15 Pro Max 256GB | Chính hãng VN/A,Apple,High,8,256,4422,48,12,High,High,6.7,460,7,20,1,0,26490000.0
+43152,iPhone 15 128GB | Chính hãng VN/A,Apple,High,6,128,3349,48,12,High,Mid,6.1,60,5,20,1,0,16650000.0
+43208,Nubia Red Magic 7 Obsidian 12GB 128GB,Nubia,Mid,12,128,4500,64,8,High,Unknown,6.8,700,5,65,1,1,15990000.0
+43477,OPPO Reno7 Z (5G),Oppo,Mid,8,128,4500,89,79,Medium,Mid,6.43,600,6,Unknown,1,1,7000000.0
+43654,Tecno Pova 2,Tecno,Mid,4,64,7000,48,8,Medium,Mid,6.9,Unknown,4,18,1,1,3190000.0
+43655,Tecno Pova 2 6G 128GB,Tecno,Mid,6,128,7000,48,8,Medium,Mid,6.9,Unknown,4,18,1,1,3750000.0
+43657,OPPO A76,Oppo,Mid,6,128,5000,89.1,79,Medium,Mid,6.56,269,6,33,0,1,4190000.0
+44255,Xiaomi Redmi 10C 4GB 128GB,Xiaomi,High,4,128,5000,50,2.4,High,Mid,6.71,60,3,18,1,1,3050000.0
+44342,Samsung Galaxy S23 8GB 256GB ,Samsung,Unknown,8,256,3900,50,12,High,High,6.1,120,6,Unknown,1,0,24990000.0
+44423,Nokia C20 2GB 16GB,Nokia,Unknown,2,16,2950,5,5,Low,Mid,6.52,Unknown,3,Unknown,Unknown,1,2290000.0
+44429,ASUS ROG Phone 5S 12GB 256GB,ASUS,Mid,12,256,6000,64,24,High,Mid,6.78,144,6,65,1,1,16490000.0
+44533,Xiaomi POCO F4,Xiaomi,High,6,128,4500,64,20,High,Mid,6.67,360,5,67,1,0,5890000.0
+44645,iPhone 13 512GB - Xanh lá,Apple,Mid,Unknown,512,3095,12,12,High,Unknown,6.1,460,0,20,1,0,29490000.0
+44667,iPhone SE 2022 128GB | Chính hãng VN/A,Apple,Mid,4,128,2018,12,7,High,High,4.7,625,5,Unknown,1,0,11990000.0
+44672,iPhone SE 2022 256GB | Chính hãng VN/A,Apple,Mid,4,256,2018,12,7,High,Low,4.7,625,5,Unknown,1,0,15990000.0
+44930,Samsung Galaxy S23 Ultra 256GB,Samsung,High,8,256,5000,200,12,High,High,6.8,120,5,45,1,0,19490000.0
+44936,Xiaomi Redmi Note 12 4GB 128GB,Xiaomi,High,4,128,5000,50,13,Medium,Mid,6.67,120,6,33,0,1,3790000.0
+44939,OPPO Reno8,Oppo,Mid,8,256,4500,64,32,Medium,Mid,6.43,600,5,33,1,1,7490000.0
+44994,Xiaomi POCO X4 Pro,Xiaomi,High,6,128,5000,108,16,Medium,Mid,6.67,120,5,67,1,1,6090000.0
+45013,OPPO A96,Oppo,Mid,8,128,5000,88.8,16,Medium,Mid,6.59,600,6,33,0,1,5090000.0
+45051,iPhone 14 Pro 128GB | Chính hãng VN/A,Apple,Mid,6,128,3200,120,23,High,Mid,6.1,120,6,20,1,0,22990000.0
+45053,iPhone 14 Pro Max 128GB | Chính hãng VN/A,Apple,Mid,6,128,4323,120,23,High,High,6.7,120,5,2,1,0,25590000.0
+45381,Tecno Spark 8C 4GB 64GB,Tecno,Mid,4,64,5000,13,8,Low,Unknown,6.6,267,3,Unknown,1,1,2250000.0
+45636,Nokia C21 Plus 2GB 64GB,Nokia,Mid,2,64,5050,13,5,Low,Mid,6.52,Unknown,2,Unknown,0,1,2890000.0
+45638,Nokia C21 Plus 3GB 32GB,Nokia,Mid,3,32,5050,13,5,Low,Mid,6.5,400,2,10,0,1,2990000.0
+45640,Nokia C21 Plus 3GB 64GB,Nokia,Mid,3,64,5050,13,5,Low,Mid,6.52,400,3,10,0,1,3190000.0
+45647,Samsung Galaxy A73 128GB,Samsung,Mid,8,128,5000,108,32,Medium,Mid,6.7,800,4,25,1,0,11990000.0
+45904,realme 9i 4GB 64GB,Realme,Mid,4,64,5000,50,16,High,Mid,6.6,480,4,33,0,1,5490000.0
+46352,Samsung Galaxy A54 5G 8GB 128GB,Samsung,High,8,128,5000,123,32,Low,Mid,6.4,120,6,25,1,0,7390000.0
+46707,OPPO Reno7 4G (8GB - 128GB),Oppo,Mid,8,128,4500,79,85,Medium,Mid,6.43,409,4,33,1,1,6000000.0
+46920,Tecno Pova Neo (4GB - 64GB),Tecno,Mid,4,64,6000,13,8,Medium,Low,6.8,120,3,18,Unknown,Unknown,2750000.0
+46921,Tecno Pova Neo (6G 128GB),Tecno,Mid,6,128,6000,13,8,Low,Low,6.8,120,2,18,Unknown,Unknown,3350000.0
+47012,ASUS ROG Phone 5S 8GB 128GB ,ASUS,Mid,8,128,6000,64,24,High,Mid,6.78,144,6,65,1,1,14290000.0
+47014,Vivo T1 5G,Vivo,Mid,8,128,4700,64,16,Medium,Mid,6.44,90,5,66,0,0,7990000.0
+47015,vivo T1X,Vivo,Mid,4,64,5000,50,8,Medium,Mid,6.58,460,6,18,0,1,3890000.0
+47201,vivo T1X 8GB 128GB,Vivo,Mid,8,128,5000,50,8,Medium,Mid,6.58,460,6,18,0,1,4990000.0
+47482,Xiaomi Redmi 10 4GB - 128GB (2022),Xiaomi,Mid,4,128,5000,50,8,Medium,Mid,6.5,400,3,18,1,1,4290000.0
+47591,Nubia Red Magic 7 Pusar 16GB 256GB,Nubia,Mid,16,256,4500,64,8,High,Unknown,6.8,700,5,65,1,1,18990000.0
+47593,Nubia Red Magic 7 Supernova 18GB 256GB,Nubia,Mid,18,256,4500,64,8,High,Unknown,6.8,700,5,65,1,1,19990000.0
+48337,Samsung Galaxy A04s (4GB - 64GB),Samsung,Mid,4,64,5000,50,5,Low,Mid,6.5,400,4,15,0,1,2750000.0
+48377,OPPO Reno8 Pro 5G 12GB 256GB,Oppo,Mid,12,256,4500,120,32,High,Mid,6.7,800,4,80,1,0,18990000.0
+48391,Tecno POP 5 LTE,Tecno,Mid,2,32,5000,8,5,Low,Unknown,6.52,480,3,Unknown,Unknown,Unknown,2150000.0
+48502,Tecno Spark 8C 4GB 128GB,Tecno,Mid,4,128,5000,13,8,Low,Unknown,6.6,267,3,Unknown,1,1,2400000.0
+48753,Tecno POVA 3,Tecno,Mid,6,128,7000,50,8,Medium,Unknown,6.9,90,3,33,Unknown,1,4190000.0
+48949,Samsung Galaxy Z Fold4 512GB,Samsung,Mid,12,512,4400,50,10,High,Mid,7.6,120,6,25,1,0,24490000.0
+48952,Samsung Galaxy Z Flip4 256GB,Samsung,Mid,8,256,3700,123,10,High,Mid,6.7,120,5,25,1,0,11490000.0
+49075,Nokia G11 Plus 3GB 64GB,Nokia,Mid,3,64,5000,50,8,Low,Mid,6.52,400,3,10,0,1,3590000.0
+49082,OPPO A57 4GB 64GB,Oppo,Mid,4,64,5000,13,8,Medium,Mid,6.56,600,5,33,0,1,4490000.0
+49110,Samsung Galaxy A04,Samsung,Mid,3,32,5000,50,5,Low,Unknown,6.5,400,4,18,0,1,2490000.0
+49111,Samsung Galaxy A14 5G,Samsung,High,4,128,5000,50,13,Low,Low,6.6,90,5,15,1,1,4200000.0
+49113,Samsung Galaxy A34 5G 8GB 128GB,Samsung,High,8,128,5000,123,13,Low,Mid,6.6,120,5,25,1,0,7090000.0
+49197,POCO X4 GT,Xiaomi,High,8,128,5080,120,16,High,Mid,6.6,650,5,67,1,1,5790000.0
+49260,vivo Y02s 3G 32GB,Vivo,Mid,3,32,5000,8,5,Low,Mid,6.51,400,5,10,0,1,2290000.0
+49381,Xiaomi 12T Pro,Xiaomi,High,12,256,5000,200,20,High,Mid,6.67,900,5,120,1,0,14690000.0
+49629,Oneplus 10T 5G 16GB 256GB,OnePlus,Mid,16,256,4800,50,16,High,High,6.7,120,6,Unknown,1,0,15990000.0
+49680,Xiaomi Poco F4 8GB 256GB,Xiaomi,High,8,256,4500,64,20,High,Mid,6.67,360,5,67,1,0,9190000.0
+49687,POCO X4 GT 8GB 256GB,Xiaomi,High,8,256,5080,120,16,High,Mid,6.6,650,5,67,1,1,5990000.0
+49695,Nokia 5710 XpressAudio,Nokia,Unknown,Unknown,128,1450,0.3,Unknown,Low,Unknown,2.4,Unknown,0,2.75,0,1,1790000.0
+49700,Nokia 8210 4G 128MB,Nokia,Unknown,Unknown,128,1450,0.3,Unknown,Low,Unknown,2.8,Unknown,0,2.75,0,1,1570000.0
+49744,Xiaomi 13 Pro (12GB - 256GB),Xiaomi,High,12,256,4820,989,32,High,High,6.73,10,6,120,1,0,24490000.0
+49745,Xiaomi 13 8GB 256GB,Xiaomi,High,8,256,4500,50,32,Low,Unknown,6.36,240,5,67,1,0,16490000.0
+49746,Xiaomi 13 Lite,Xiaomi,High,8,256,4500,119,32,High,Mid,6.55,500,6,67,1,0,8290000.0
+50049,OPPO A57 4GB 128GB,Oppo,Mid,4,128,5000,13,8,Medium,Mid,6.56,600,5,33,0,1,3790000.0
+50348,ASUS ROG Phone 6 12GB 256GB,ASUS,Mid,12,256,6000,50,12,Low,High,6.78,395,6,5,1,1,14490000.0
+50350,OPPO Reno8 5G (8GB 256GB),Oppo,Mid,8,256,4500,50,32,High,High,6.4,600,5,80,1,1,13990000.0
+50574,Oneplus 10T 5G 8GB 128GB,OnePlus,Mid,8,128,4800,50,16,High,High,6.7,120,6,Unknown,1,0,13990000.0
+50676,vivo V25e 8GB 128GB,Vivo,Mid,8,128,4500,64,32,Medium,Mid,6.44,90,5,44,0,0,4690000.0
+50677,vivo Y35 8GB 128GB,Vivo,Mid,8,128,5000,50,16,Medium,Mid,6.58,550,5,44,0,1,4590000.0
+50697,vivo V25 5G 8GB 128GB,Vivo,Mid,8,128,4500,64,50,Medium,Mid,6.44,90,5,44,1,0,6990000.0
+50751,vivo Y16 4GB 128GB,Vivo,Mid,4,128,5000,13,5,Low,Mid,6.51,400,5,10,0,1,3690000.0
+50752,vivo Y22S 8GB 128GB,Vivo,Mid,8,128,5000,50,8,Medium,Mid,6.55,530,5,18,1,1,4790000.0
+50927,Redmi 10 5G 4GB 64GB,Xiaomi,High,4,64,5000,50,5,Low,Mid,6.58,90,4,18,1,1,3790000.0
+51198,Nokia G11 Plus 3GB 32GB,Nokia,Mid,3,32,5000,50,8,Low,Mid,6.52,400,3,10,0,1,3390000.0
+51222,vivo V25 Pro 8GB 128GB,Vivo,Mid,8,128,4830,64,32,High,High,6.56,120,5,66,1,0,7490000.0
+51550,Samsung Galaxy A23 5G,Samsung,Mid,4,128,5000,50,8,Medium,Mid,6.6,5,5,25,1,1,4150000.0
+51763,Nokia C31 3GB 32GB,Nokia,Mid,3,32,5050,13,5,Low,Mid,6.7,400,4,10,0,1,3190000.0
+51797,OPPO A77s 8GB 128GB,Oppo,Mid,8,128,5000,50,8,Medium,Mid,6.56,600,6,33,0,1,4790000.0
+51983,iPhone 14 256GB | Chính hãng VN/A,Apple,Mid,6,256,3279,12,12,High,High,6.1,60,4,20,1,0,16290000.0
+51984,iPhone 14 512GB | Chính hãng VN/A,Apple,Mid,6,512,3279,12,12,High,High,6.1,60,4,20,1,0,21990000.0
+51990,iPhone 14 Pro 256GB | Chính hãng VN/A,Apple,Mid,6,256,3200,120,23,High,Mid,6.1,120,5,20,1,0,24990000.0
+51994,iPhone 14 Pro 512GB | Chính hãng VN/A,Apple,Mid,6,512,3200,120,23,High,Mid,6.1,120,4,20,1,0,32990000.0
+51995,iPhone 14 Pro 1TB | Chính hãng VN/A,Apple,Mid,6,1024,3200,120,23,High,Mid,6.1,120,6,20,1,0,33990000.0
+51996,iPhone 14 Pro Max 256GB | Chính hãng VN/A,Apple,Mid,6,256,4323,120,23,High,High,6.7,120,4,20,1,0,27990000.0
+51997,iPhone 14 Pro Max 512GB | Chính hãng VN/A,Apple,Mid,6,512,4323,120,23,High,High,6.7,120,5,20,1,0,35590000.0
+51999,iPhone 14 Pro Max 1TB | Chính hãng VN/A,Apple,Mid,6,1024,4323,120,23,High,High,6.7,120,5,20,1,0,41790000.0
+52291,Xiaomi POCO M5 (6GB 128GB),Xiaomi,High,6,128,5000,50,5,Medium,Mid,6.58,500,4,18,1,1,2990000.0
+52292,Xiaomi POCO M5s 4GB 64GB,Xiaomi,High,4,64,5000,118,13,Medium,High,6.43,60,5,33,1,1,4050000.0
+52293,realme C33 4G (3GB -  32GB),Realme,Mid,3,32,5000,50,5,Low,Mid,6.5,120,3,10,0,1,1850000.0
+52297,Redmi A1,Xiaomi,Mid,2,32,5000,8,5,Low,Mid,6.52,400,1,10,1,1,1690000.0
+52305,iPhone 14 Plus 128GB | Chính hãng VN/A,Apple,Mid,6,128,4325,120,12,High,Mid,6.7,458,6,20,1,0,15990000.0
+52306,iPhone 14 Plus 256GB | Chính hãng VN/A,Apple,Mid,6,256,4325,120,12,High,Mid,6.7,458,4,20,1,0,17990000.0
+52312,iPhone 14 Plus 512GB | Chính hãng VN/A,Apple,Mid,6,512,4325,120,12,High,Mid,6.7,458,4,20,1,0,25490000.0
+52320,iPhone 14 Pro 128GB-Bạc,Apple,Mid,6,Unknown,3200,48,Unknown,High,Unknown,6.1,120,0,Unknown,Unknown,0,30990000.0
+52472,OPPO A17,Oppo,Mid,4,64,5000,77,76.8,Medium,Low,6.56,269,5,10,0,1,3490000.0
+52475,realme C30s 2GB 32GB,Realme,Mid,2,32,5000,8,5,Low,Low,6.5,400,3,10,0,1,1990000.0
+53145,Samsung Galaxy Z Flip4 Flex Mode Collection,Samsung,Mid,8,256,3700,123,10,High,Mid,6.7,120,5,25,1,0,25990000.0
+53189,OPPO A17K,Oppo,Mid,3,64,5000,78,76.8,Medium,Mid,6.56,269,5,10,0,1,2290000.0
+53190,Xiaomi POCO M5s 6GB 128GB,Xiaomi,High,6,128,5000,118,13,Medium,High,6.43,60,5,33,1,1,3590000.0
+53193,Samsung Galaxy A55 5G 8GB 128GB,Samsung,High,8,128,5000,50,32,Low,Mid,6.6,120,0,25,1,0,7590000.0
+53194,Samsung Galaxy A05 4GB 128GB,Samsung,High,4,128,5000,50,8,Medium,Mid,6.7,576,2,25,0,1,2790000.0
+53269,Samsung Galaxy A35 5G 8GB 128GB,Samsung,High,8,128,5000,50,13,Low,Mid,6.6,120,0,25,1,0,6190000.0
+53270,Samsung Galaxy A25 5G 6GB 128GB,Samsung,High,6,128,5000,50,13,Low,Mid,6.5,120,5,25,1,1,4690000.0
+53362,Xiaomi POCO M5 6GB 128GB,Xiaomi,Mid,6,128,5000,50,5,Medium,Mid,6.58,500,4,18,1,1,4050000.0
+53706,Samsung Galaxy A15 LTE 8GB 128GB,Samsung,High,8,128,5000,50,13,Low,Mid,6.5,800,4,25,1,1,4290000.0
+54152, realme C55 6GB 128GB,Realme,High,6,128,5000,64,8,Medium,Mid,6.72,680,4,33,0,1,3480000.0
+54288,Samsung Galaxy S24 8GB 256GB,Samsung,High,8,256,4000,120,12,Low,High,6.2,120,7,25,1,Unknown,16790000.0
+54438,Nokia C31 4GB 128GB,Nokia,Mid,4,128,5050,13,5,Low,Mid,6.75,400,4,10,0,1,3690000.0
+54445,realme 10 8GB 256GB,Realme,Mid,8,256,5000,50,16,Medium,Mid,6.4,90,5,33,Unknown,1,7190000.0
+54484,realme C33 4GB 64GB,Realme,Mid,4,64,5000,50,5,Low,Mid,6.5,60,3,10,0,1,2190000.0
+55613,OnePlus 11 5G 16GB 256GB,OnePlus,High,16,256,5000,50,16,High,High,6.7,10,6,100,1,0,18990000.0
+55687,Xiaomi Redmi Note 12 Pro 5G,Xiaomi,Mid,8,256,5000,119,16,High,Mid,6.67,900,6,67,1,1,6590000.0
+55753,OPPO A58 4G 6GB 128GB,Oppo,High,6,128,5000,50,8,Medium,Mid,6.72,16,4,33,0,1,4090000.0
+55754,Samsung Galaxy S23 Plus 8GB 256GB,Samsung,High,8,256,4700,50,12,High,High,6.6,120,4,45,1,0,19990000.0
+55763,OPPO A98 5G,Oppo,High,8,256,5000,64,32,Medium,Mid,6.72,680,0,33,1,1,5790000.0
+55940,POCO X5 5G 6GB 128GB - Chỉ có tại CellphoneS,Xiaomi,High,6,128,5000,118,13,Medium,Mid,6.67,700,6,33,1,1,4490000.0
+56069,vivo V27e 8GB 256GB,Vivo,High,8,256,4600,64,32,Medium,Mid,6.62,120,5,66,0,0,7990000.0
+56075,Tecno Pova 4 Pro 8GB 128GB,Tecno,Mid,8,128,6000,50,8,Medium,Mid,6.66,90,6,45,1,1,4590000.0
+56076,Samsung Galaxy S23 FE 5G 8GB 128GB,Samsung,High,8,128,4500,50,10,Low,High,6.4,120,5,25,1,0,14890000.0
+56131,vivo Y02,Vivo,Mid,2,32,5000,8,5,Low,Mid,6.51,Cảm ứng điện dung đa điểm,2,10,Unknown,1,1890000.0
+56698,Điện thoại Sony Xperia 10 V,Sony,High,8,128,5000,12,8,Medium,Unknown,6.1,100,0,Unknown,1,1,7490000.0
+56709,Xiaomi Redmi 10 (6GB - 128GB),Xiaomi,Mid,6,128,5000,50,8,Medium,Mid,6.5,90,3,18,1,1,3490000.0
+56710,Xiaomi Poco M3 4G 64G ,Xiaomi,Mid,Unknown,Unknown,6000,48,8,Medium,Mid,6.53,3,4,18,Unknown,1,3190000.0
+56938,Nokia G22 4GB 128GB,Nokia,Mid,4,128,5050,50,8,Low,Unknown,6.52,500,4,20,1,1,3990000.0
+57153,Samsung Galaxy Z Fold5 12GB 512GB,Samsung,High,12,512,4400,123,10,High,High,7.6,904,3,25,1,Unknown,29990000.0
+57234,Xiaomi Redmi Note 12S,Xiaomi,High,8,256,5000,118,16,Medium,Mid,6.43,700,0,33,1,1,4990000.0
+57237,Xiaomi Redmi 12C 4GB 64GB,Xiaomi,High,4,64,5000,50,5,Medium,Mid,6.71,500,3,10,0,1,2190000.0
+57320,OPPO Reno8 T 5G (8GB - 128GB),Oppo,High,8,128,4800,108,32,Medium,Mid,6.7,800,0,67,Unknown,Unknown,7890000.0
+57372,ASUS ROG Phone 6 Batman 12GB 256GB,ASUS,Mid,12,256,6000,50,28,High,High,6.78,165,6,65,1,1,14990000.0
+57489,OPPO Reno8 T 4G 256GB,Oppo,High,8,256,5000,100,32,Medium,Mid,6.4,90,4,33,1,1,6290000.0
+57497,Samsung Galaxy S23 8GB 128GB ĐKH Online - Chỉ có tại CellphoneS,Samsung,High,8,128,3900,50,12,High,High,6.1,120,5,25,1,0,13790000.0
+57498,Samsung galaxy S23 Plus 8GB 512GB,Samsung,High,8,512,4700,50,12,High,High,6.6,120,4,45,1,0,22990000.0
+57499,Samsung Galaxy S23 Ultra 12GB 512GB ,Samsung,Unknown,12,512,5000,200,12,High,High,6.8,120,5,45,1,0,22290000.0
+57500,Samsung Galaxy S23 Ultra 12GB 1TB,Samsung,Unknown,12,1024,5000,200,12,High,High,6.8,120,5,45,1,0,44990000.0
+57708,Redmi A2 2GB 32GB,Xiaomi,High,2,32,5000,8,5,Medium,Unknown,6.52,Unknown,0,10,0,1,1690000.0
+57713,vivo X50 Pro 8GB 256GB,Vivo,Mid,8,256,4315,48,32,Medium,Mid,6.56,90,6,Unknown,1,0,8590000.0
+58498,OnePlus 11 5G 8GB 128GB - Chỉ có tại CellphoneS,OnePlus,High,8,128,5000,50,16,High,High,6.7,10,6,100,1,0,15990000.0
+58511,Samsung Galaxy Z Fold3 5G 256GB - Đã Kích Hoạt Online,Samsung,Mid,12,256,4400,52,4,High,Mid,7.6,832,6,25,1,Unknown,44990000.0
+58610,OPPO Reno10 5G 8GB 256GB,Oppo,High,8,256,5000,64,32,High,Mid,6.7,950,6,67,1,0,8490000.0
+58612,OPPO Reno10 Pro+ 5G 12GB 256GB,Oppo,High,12,256,4700,64,32,High,High,6.74,120,6,100,1,0,9940000.0
+58855,OPPO A78 4G 8GB 256GB,Oppo,High,8,256,5000,50,8,Medium,Mid,6.43,430,6,67,0,1,5490000.0
+59053,Xiaomi POCO X5 Pro 5G 6GB 128GB,Xiaomi,High,6,128,5000,118,16,Medium,Mid,6.67,900,6,67,1,1,6550000.0
+59254,iPhone 16 128GB | Chính hãng VN/A,Apple,High,6,128,4300,100,12,High,Mid,6.1,460,7,25,1,0,20550000.0
+59255,iPhone 16 Plus 128GB | Chính hãng VN/A,Apple,High,Unknown,128,Unknown,100,12,High,Mid,6.7,460,7,25,1,Unknown,24790000.0
+59257,iPhone 16 Pro 128GB | Chính hãng VN/A,Apple,High,Unknown,128,Unknown,120,12,High,High,6.3,460,7,25,1,Unknown,25490000.0
+59258,iPhone 16 Pro Max 256GB | Chính hãng VN/A,Apple,High,Unknown,256,Unknown,120,12,High,High,6.9,120,7,25,1,Unknown,30290000.0
+59293,Samsung Galaxy S24 Plus 12GB 256GB,Samsung,High,12,256,4900,120,12,Low,High,6.7,120,7,45,1,Unknown,15790000.0
+59294,Samsung Galaxy S24 Ultra 12GB 256GB,Samsung,High,12,256,5000,200,12,High,High,6.8,600,7,45,1,Unknown,22290000.0
+59589,Vivo Y100,Vivo,High,8,256,5000,50,8,Medium,Mid,6.67,394,6,80,0,0,6490000.0
+59593,Sony Xperia 1V 12GB 256GB,Sony,High,12,256,5000,52,12,High,Unknown,6.5,120,0,Unknown,1,1,20190000.0
+59595,Samsung Galaxy M14 5G 4GB 128GB,Samsung,High,4,128,6000,50,13,Low,Mid,6.6,90,4,25,1,1,4490000.0
+59596,Samsung Galaxy A14 4G,Samsung,High,4,128,5000,50,13,Low,Mid,6.6,480,3,10,1,1,2990000.0
+59598,OnePlus Nord 3 5G 16GB 256GB,OnePlus,High,16,256,5000,120,16,High,High,6.74,120,5,80,1,0,11950000.0
+59685,realme C30s 4GB 64GB,Realme,Mid,4,64,5000,8,5,Low,Low,6.5,400,0,10,Unknown,1,3190000.0
+59734,OPPO Find N3 16GB 512GB,Oppo,High,16,512,4805,64,32,High,High,7.82,120,6,67,1,0,26990000.0
+59736,OPPO Find N3 Flip 12GB 256GB,Oppo,High,12,256,4300,50,90,High,High,6.8,900,5,3,1,0,13990000.0
+60113,vivo Y22S 4GB 128GB,Vivo,Mid,4,128,5000,50,8,Medium,Unknown,6.55,Unknown,4,18,Unknown,1,4290000.0
+60341,ASUS ROG Phone 7 16GB 512GB,ASUS,High,16,512,6000,50,32,High,High,6.78,165,6,65,1,1,24990000.0
+60343,realme 11 8GB 128GB,Realme,High,8,128,5000,108,16,Medium,Mid,6.4,90,4,67,0,1,4590000.0
+60344,realme 11 Pro (8GB -  256GB),Realme,High,8,256,5000,100,25,High,Mid,6.7,120,5,67,1,0,7790000.0
+60401,realme C53 8GB 256GB,Realme,High,8,256,5000,50,8,Low,Mid,6.74,560,5,33,0,1,3750000.0
+60617,Xiaomi 14 12GB 256GB,Xiaomi,High,12,256,4610,122,32,High,High,6.36,120,6,90,1,0,18990000.0
+60621,Xiaomi 14 Ultra 5G 16GB 512GB,Xiaomi,Unknown,16,512,5000,120,32,High,Unknown,6.73,120,7,90,1,Unknown,24090000.0
+60676,Nokia C32 4GB 128GB,Nokia,High,4,128,5050,50,8,Low,Mid,6.52,Unknown,4,10,0,1,2390000.0
+60880,Samsung Galaxy A54 8GB 256GB,Samsung,High,8,256,5000,123,32,Low,Mid,6.4,120,6,25,1,0,7890000.0
+60927,realme C55 8GB 256GB,Realme,High,8,256,5000,64,8,Medium,Mid,6.72,680,4,33,0,1,3690000.0
+61449,Vivo Y02A 3GB 32GB,Vivo,Mid,3,32,5000,8,5,Low,Mid,6.51,400,4,10,Unknown,1,2690000.0
+61508,OnePlus Nord CE 3 Lite - Chỉ có tại CellphoneS,OnePlus,High,8,256,5000,108,16,Medium,Mid,6.72,120,5,67,1,1,5690000.0
+61511,Xiaomi Redmi Note 12 Pro 4G 8GB 256GB,Xiaomi,High,8,256,5000,120,16,High,Mid,6.67,120,6,67,1,1,5690000.0
+61666,realme C51 4GB 128GB,Realme,High,4,128,5000,50,5,Low,Mid,6.74,560,4,33,0,1,2390000.0
+61727,vivo Y02s 3GB 64GB    ,Vivo,Mid,3,64,5000,8,5,Low,Mid,6.51,60,3,10,0,1,2690000.0
+61834,realme C30s 3GB 64GB,Realme,Mid,3,64,5000,8,5,Low,Low,6.5,400,0,10,0,1,1890000.0
+61884,TECNO Pova 4 Pro 8GB 256GB,Tecno,Mid,8,256,6000,50,8,Medium,Mid,6.66,90,5,45,1,Unknown,4490000.0
+61890,TECNO SPARK 10 Pro 8GB 128GB,Tecno,Unknown,8,128,5000,50,32,Medium,Mid,6.78,580,5,18,1,1,2890000.0
+61895,TECNO SPARK 10 Pro 8GB 256GB,Tecno,High,8,256,5000,50,32,Medium,Mid,6.78,90,5,18,1,1,3190000.0
+62088,Infinix Hot 30i 4GB 128GB,Infinix,Mid,4,128,5000,13,8,Low,Mid,6.56,500,5,18,0,1,1890000.0
+62296,Xiaomi 13T 12GB 256GB,Xiaomi,High,12,256,5000,50,20,High,Mid,6.67,144,5,67,1,0,10590000.0
+62370,Masstel Lux 20,Masstel,Unknown,Unknown,128,1800,Unknown,Unknown,Low,Unknown,2.4,QVGA,0,2.5,0,Unknown,500000.0
+62546,ASUS ROG Phone 7 Ultimate 16GB 512GB - Chỉ có tại CellphoneS,ASUS,High,16,512,6000,50,32,High,High,6.78,165,6,65,1,1,26190000.0
+62717,OPPO A18 4GB 128GB,Oppo,High,4,128,5000,8,5,Medium,Mid,6.56,720,4,10,0,1,3190000.0
+63068,vivo Y36 8GB 128GB,Vivo,High,8,128,5000,50,16,Medium,Mid,6.64,650,5,44,0,1,4990000.0
+63554,Xiaomi POCO X5 Pro 8GB 256GB,Xiaomi,High,8,256,5000,118,16,Medium,Mid,6.67,900,6,67,1,1,7390000.0
+63898,TECNO Camon 20,Tecno,High,8,256,5000,64,32,Medium,Mid,6.67,Màn chắn nắng HBM,4,18,1,1,3590000.0
+63899,TECNO Camon 20 Pro,Tecno,High,8,256,5000,64,32,Medium,Mid,6.67,120,4,33,1,1,4600000.0
+63939,Samsung Galaxy Fold5 12GB 1TB,Samsung,High,12,1024,4400,123,10,High,High,7.6,904,3,25,1,Unknown,38990000.0
+64066,vivo Y02t 4GB 64GB,Vivo,High,4,64,5000,8,5,Low,Mid,6.51,400,3,10,0,1,2790000.0
+64264,Xiaomi POCO X5 5G 8GB 256GB,Xiaomi,High,8,256,5000,118,13,Medium,Mid,6.67,700,6,33,1,1,4990000.0
+64325,Infinix Hot 30 8GB 256GB,Infinix,High,8,256,5000,50,8,Medium,Mid,6.78,600,4,33,0,1,3990000.0
+64326,Infinix Note 30 4G 8GB 256GB,Infinix,High,8,256,5000,64,16,Medium,Mid,6.78,580,4,45,1,1,3590000.0
+64828,OPPO A38 6GB 128GB,Oppo,High,6,128,5000,50,5,Medium,Mid,6.56,90,0,33,0,1,3690000.0
+64832,Nubia Neo 8GB 256GB ,Nubia,High,8,256,4500,50,8,Low,Unknown,6.6,120,5,22.5,1,1,3990000.0
+64834,OPPO Reno10 128GB,Oppo,High,8,128,5000,64,32,High,Mid,6.7,950,6,67,1,Unknown,7990000.0
+64877,Itel S23 8GB 128GB,Itel,Unknown,8,128,5000,50,8,Low,Unknown,6.6,267,0,Unknown,0,1,2390000.0
+64924,TECNO SPARK 10 8GB 128GB ,Tecno,High,8,128,5000,50,8,Medium,Low,6.56,90,4,18,1,1,2890000.0
+64927,TECNO POVA 5 8GB 128GB,Tecno,High,8,128,6000,50,8,Medium,Mid,6.78,580,4,45,1,1,3690000.0
+64928,TECNO POVA 5 8GB 256GB,Tecno,High,8,256,6000,50,8,Medium,Mid,6.78,580,4,45,1,1,3890000.0
+65136,Nokia 105 4G Pro,Nokia,Unknown,Unknown,128,1450,Unknown,Unknown,Low,Unknown,1.77,Unknown,0,Unknown,Unknown,1,690000.0
+65137,Nokia 110 4G Pro,Nokia,Unknown,Unknown,128,1450,Unknown,Unknown,Low,Unknown,1.77,Unknown,0,Unknown,Unknown,1,780000.0
+65138,TECNO SPARK Go 4GB 64GB,Tecno,Unknown,4,64,5000,13,5,Unknown,Unknown,6.6,Unknown,0,10,1,Unknown,1990000.0
+65313,Samsung Galaxy Z Fold5 12GB 256GB,Samsung,High,12,256,4400,123,10,High,High,7.6,904,3,25,1,0,27990000.0
+65349,Nubia RedMagic 8S Pro 5G 12GB 256GB,Nubia,High,12,256,6000,120,16,High,High,6.8,120,7,65,1,1,18990000.0
+65638,Xiaomi Redmi Note 12 8GB 128GB,Xiaomi,Mid,8,128,5000,120,13,Medium,Mid,6.67,120,6,33,0,1,4290000.0
+65917,Masstel IZI 30,Masstel,Unknown,Unknown,Unknown,1800,Unknown,Unknown,Low,Low,2.4,QQVGA,0,Unknown,Unknown,Unknown,600000.0
+65918,Masstel Izi 15 4G,Masstel,Unknown,Unknown,Unknown,1000,Unknown,Unknown,Low,Low,1.77,QQVGA,0,Unknown,Unknown,1,450000.0
+65919,Samsung Galaxy Z Fold 6 12GB 256GB,Samsung,Unknown,12,256,4400,50,10,High,Unknown,7.6,968,6,25,1,Unknown,30690000.0
+65920,Samsung Galaxy Z Flip6 12GB 256GB,Samsung,Unknown,12,256,4000,50,10,High,Unknown,6.7,748,6,Unknown,1,Unknown,21590000.0
+66374,Xiaomi Redmi Note 13 6GB 128GB,Xiaomi,High,6,128,5000,108,16,Medium,Mid,6.67,120,0,33,0,1,3790000.0
+66467,Samsung Galaxy Z Flip5 256GB,Samsung,High,8,256,3700,123,10,High,High,6.7,748,3,25,1,Unknown,25990000.0
+66832,Infinix Hot 30i 8GB 128GB,Infinix,Mid,8,128,5000,13,8,Low,Mid,6.6,500,5,18,0,1,2090000.0
+66929,TCL 40SE 6GB 256GB,TCL,High,6,256,5010,50,8,Medium,Mid,6.75,450,3,9,1,1,3490000.0
+66930,TCL 40SE 4GB 128GB,TCL,High,4,128,5010,50,8,Medium,Mid,6.75,450,3,9,1,1,3390000.0
+66931,TCL 408 4GB 64GB,TCL,Mid,4,64,5000,50,8,Low,Low,6.6,400,3,5,0,1,1990000.0
+66932,TCL 408 4GB 128GB,TCL,Mid,4,128,5000,50,8,Low,Low,6.6,400,3,5,0,1,2390000.0
+67006,iPhone 15 Plus 128GB | Chính hãng VN/A,Apple,High,6,128,4383,48,12,High,Mid,6.7,460,6,15,1,0,18990000.0
+67275,ASUS ROG Phone 6 Diablo 16GB 512GB ,ASUS,Mid,16,512,6000,50,12,High,High,6.78,395,5,65,1,1,17990000.0
+67360,Redmi A2 3GB 32GB,Xiaomi,High,3,32,5000,8,5,Medium,Unknown,6.52,Unknown,0,10,0,1,2190000.0
+67378,Xiaomi Redmi Note 13 Pro Plus 5G 8GB 256GB,Xiaomi,High,8,256,5000,200,16,High,Mid,6.67,120,6,120,1,0,7890000.0
+67555,Samsung Galaxy A05S 4GB 128GB,Samsung,High,4,128,5000,50,13,Medium,Mid,6.7,500,3,25,0,1,3350000.0
+67556,Samsung Galaxy M34 5G 8GB 128GB,Samsung,High,8,128,6000,120,13,Low,Mid,6.5,120,4,25,1,1,5890000.0
+67726,vivo V29E 8GB 256GB,Vivo,High,8,256,4800,64,50,Medium,Unknown,6.67,394,7,44,0,0,7990000.0
+68107,Nokia C21 Plus 2GB 32GB,Nokia,Mid,2,32,4000,13,5,Low,Mid,6.52,Unknown,2,Unknown,0,1,2390000.0
+68168,vivo Y17s 4GB 128GB,Vivo,High,4,128,5000,50,8,Medium,Low,6.56,269,6,15,0,1,3190000.0
+68859,iPhone 15 Plus 256GB | Chính hãng VN/A,Apple,High,6,256,4383,48,12,High,Mid,6.7,460,6,15,1,0,22290000.0
+68860,iPhone 15 Plus 512GB | Chính hãng VN/A,Apple,High,6,512,4383,48,12,High,Mid,6.7,460,6,15,1,0,28490000.0
+68861,iPhone 15 Pro 256GB | Chính hãng VN/A,Apple,High,8,256,3274,77,12,High,High,6.1,460,7,20,1,0,26290000.0
+68862,iPhone 15 Pro 512GB | Chính hãng VN/A,Apple,High,8,512,3274,77,12,High,High,6.1,460,7,20,1,0,28990000.0
+68863,iPhone 15 Pro Max 512GB | Chính hãng VN/A,Apple,High,8,512,4422,120,12,High,High,6.7,460,7,20,1,0,28990000.0
+68864,iPhone 15 Pro Max 1TB | Chính hãng VN/A,Apple,High,8,1024,4422,120,12,High,High,6.7,460,7,20,1,0,32990000.0
+68866,iPhone 15 256GB | Chính hãng VN/A,Apple,High,6,256,3349,48,12,High,Mid,6.1,60,6,15,1,0,20550000.0
+68867,iPhone 15 Pro 1TB | Chính hãng VN/A,Apple,High,8,1024,3274,77,12,High,High,6.1,460,7,20,1,0,35990000.0
+68868,iPhone 15 512GB | Chính hãng VN/A,Apple,High,6,512,3349,48,12,High,Mid,6.1,460,6,20,1,0,23990000.0
+69512,Xiaomi Redmi 13C 6GB 128GB,Xiaomi,High,6,128,5000,50,8,Medium,Mid,6.74,600,0,18,0,1,2990000.0
+70735,Infinix Note 30 5G 8GB 256GB,Infinix,High,8,256,5000,108,16,High,Mid,6.78,580,4,45,1,1,5290000.0
+70839,ZTE Blade V50 Design 8GB 128GB,ZTE,High,8,128,5000,50,8,Low,Mid,6.6,90,4,22.5,0,1,2790000.0
+70840,ZTE Blade A52 4GB 64GB,ZTE,Mid,4,64,5000,13,5,Low,Low,6.52,90,4,22.5,0,1,1990000.0
+71941,Samsung Galaxy Z Flip5 512GB Line Friends - Chỉ có tại CellphoneS,Samsung,High,8,512,3700,123,10,High,High,6.7,748,3,25,1,0,29990000.0
+71982,ZTE Blade V50 Design 8GB 256GB,ZTE,High,8,256,5000,50,8,Low,Mid,6.6,90,4,22.5,0,1,2990000.0
+72211,OPPO A79 5G 8GB 256GB,Oppo,High,8,256,5000,89,80,High,Mid,6.72,391,5,33,1,1,6860000.0
+72266,TCL 40 NXT PAPER 8GB 256GB,TCL,High,8,256,5010,50,32,Medium,Mid,6.78,450,4,33,1,1,3900000.0
+72303,Xiaomi Redmi Note 13 Pro 4G 8GB 128GB,Xiaomi,High,8,128,5000,200,16,Medium,Mid,6.67,120,6,67,1,1,5790000.0
+72328,TECNO SPARK Go 2024 4GB 64GB,Tecno,High,4,64,5000,13,8,Low,Mid,6.6,90,0,10,0,Unknown,1800000.0
+72330,TECNO SPARK 20C 4GB 128GB,Tecno,Unknown,4,128,5000,50,8,Low,Unknown,6.6,90,3,18,0,Unknown,2300000.0
+72331,TECNO SPARK 20 8GB 128GB,Tecno,High,8,128,5000,50,32,Medium,Mid,6.56,90,5,18,0,Unknown,3050000.0
+72332,TECNO POVA 6 NEO 8GB 128GB,Tecno,High,8,128,7000,50,8,Medium,Mid,6.78,120,4,Unknown,1,1,3890000.0
+72333,TECNO SPARK 20PRO+ 8GB 256GB,Tecno,High,8,256,5000,108,32,Medium,Unknown,6.78,120,5,33,1,Unknown,3990000.0
+72334,TECNO POVA 6 8GB 256GB,Tecno,High,8,256,6000,108,32,Low,Mid,6.78,Unknown,4,70,1,1,5390000.0
+72337,TECNO CAMON 30 8GB 256GB,Tecno,High,8,256,5000,1440,1440,Medium,Mid,6.78,120,4,70,1,0,4690000.0
+72501,OPPO Reno11 5G,Oppo,High,8,256,5000,50,89,High,Mid,6.7,800,5,67,1,0,9050000.0
+72502,OPPO Reno11 Pro 5G,Oppo,High,12,512,4600,50,32,High,Mid,6.7,950,5,80,1,1,16090000.0
+72735,realme C51 3GB 64GB,Realme,High,3,64,5000,50,5,Low,Mid,6.74,560,4,33,0,1,2090000.0
+72748,Samsung Galaxy S24 Ultra 12GB 512GB,Samsung,High,12,512,5000,200,12,High,High,6.8,600,7,45,1,Unknown,24290000.0
+72749,Samsung Galaxy S24 Ultra 12GB 1TB,Samsung,High,12,1024,5000,200,12,High,High,6.8,600,7,45,1,Unknown,44490000.0
+72750,Samsung Galaxy S24 Plus 12GB 512GB,Samsung,High,12,512,4900,120,12,Low,High,6.7,120,7,45,1,Unknown,21190000.0
+72751,Samsung Galaxy S24 8GB 512GB,Samsung,High,8,512,4000,120,12,Low,High,6.2,120,7,25,1,Unknown,19190000.0
+73016,realme C67 8GB 128GB,Realme,High,8,128,5000,108,8,Medium,Mid,6.72,950,3,33,0,1,4290000.0
+73017,realme 12 4G 8GB 256GB,Realme,High,8,256,5000,50,16,Medium,Mid,6.67,120,0,67,1,1,7990000.0
+73650,Xiaomi Redmi A3 4GB 128GB,Xiaomi,High,4,128,5000,8,5,Medium,Unknown,6.71,500,3,10,0,1,2390000.0
+73651,Xiaomi POCO X6 Pro 5G 8GB 256GB - Chỉ có tại CellphoneS,Xiaomi,High,8,256,5000,120,16,Low,High,6.67,120,7,67,1,0,7540000.0
+73656,Điện thoại ZTE Blade A31 Plus 2GB 32GB,ZTE,Mid,2,32,3000,5,2,Low,Mid,6,"Màn hình cảm ứng điện dung, Màn hình cảm ứng đa điểm",2,Unknown,1,1,1390000.0
+73771,Itel S23 8GB 256GB,Itel,Unknown,8,256,5000,50,8,Low,Unknown,6.6,267,0,Unknown,0,1,2390000.0
+73942,OPPO Reno11 F 5G 8GB 256GB,Oppo,High,8,256,5000,64,32,High,Unknown,6.7,394,4,67,1,0,6990000.0
+73955,realme Note 50,Realme,High,4,128,5000,13,5,Low,Mid,6.74,560,0,10,0,1,2790000.0
+74096,TCL 406S 4GB 64GB,TCL,High,4,64,5000,13,13,Medium,Mid,6.6,400,4,5,0,1,1790000.0
+74179,realme C51 6GB 256GB,Realme,High,6,256,5000,50,5,Low,Mid,6.74,560,4,33,0,1,3390000.0
+74388,Điện thoại ZTE Blade A72 3GB 128GB,ZTE,Unknown,3,128,5130,13,5,Low,Unknown,6.745,90,4,22.5,0,1,1990000.0
+74613,Samsung Galaxy S24 FE 5G 8GB 128GB,Samsung,High,8,128,4700,50,10,Low,Unknown,6.7,120,6,25,1,0,10790000.0
+74864,realme C60 4GB 64GB,Realme,High,4,64,5000,13,5,Low,Mid,6.74,560,0,10,0,1,2390000.0
+75775,INOI Note 13s 8GB 256GB,Unknown,High,8,256,5000,13,5,Low,Unknown,6.95,20,0,Unknown,0,Unknown,2790000.0
+75777,INOI A72 4GB 128GB,Unknown,Mid,4,128,5000,13,5,Low,Unknown,6.5,18,0,Unknown,1,Unknown,2090000.0
+75778,INOI 288S 4G,Unknown,Unknown,Unknown,Unknown,1000,0.3,Unknown,Unknown,Unknown,2,QQVGA,0,Unknown,Unknown,0,1000000.0
+75812,Infinix Hot 40 Pro Free Fire 8GB 256GB,Infinix,High,8,256,5000,108,32,Medium,Mid,6.78,500,6,33,1,1,3450000.0
+75815,Infinix Hot 40i 4GB 128GB,Infinix,High,4,128,5000,50,32,Low,Mid,6.56,480,6,18,0,1,2290000.0
+76439,Xiaomi 14T 12GB 512GB,Xiaomi,Unknown,12,512,5000,906,80.8,High,High,6.67,446,0,67,1,Unknown,12740000.0
+76443,Xiaomi 14T Pro 12GB 512GB,Xiaomi,Unknown,12,512,5000,60,80.8,High,High,6.67,446,0,120,1,Unknown,14870000.0
+77301,Infinix Hot 40i 8GB 256GB,Infinix,High,8,256,5000,50,32,Low,Mid,6.56,480,6,18,0,1,2490000.0
+77853,Nubia Neo 2 5G,Nubia,High,8,256,6000,50,16,Low,Mid,6.72,400,2,33,1,0,3990000.0
+77855,ZTE Blade A52 3GB 64GB,ZTE,Mid,3,64,5000,13,5,Low,Low,6.52,Unknown,4,Unknown,0,1,1790000.0
+78048,Masstel Fami 60S 4G,Masstel,Unknown,Unknown,128,2300,Unknown,Unknown,Unknown,Unknown,2,260,5,Unknown,1,Unknown,700000.0
+78051,Masstel izi T2 4G,Masstel,Unknown,48,128,1800,Unknown,Unknown,Low,Unknown,2.4,16.7,0,Unknown,Unknown,1,500000.0
+78197,vivo Y03 4GB 64GB,Vivo,High,4,64,5000,13,5,Medium,Mid,6.56,269,4,15,0,1,2490000.0
+78379,realme C65 8GB 256GB,Realme,High,8,256,5000,50,8,Medium,Mid,6.67,625,0,45,0,1,3750000.0
+78605,Điện thoại ZTE Blade V40 6GB 128GB,ZTE,Unknown,6,128,5000,48,8,Low,Mid,6.67,395,4,22.5,1,1,2290000.0
+78903,Samsung Galaxy M15 5G ,Samsung,High,6,128,6000,50,13,High,Mid,6.5,800,0,25,1,1,5890000.0
+79064,Điện thoại ZTE Blade A54 4GB 128GB,ZTE,High,4,128,5000,13,2,Low,Mid,6.6,90,2,10,0,1,2090000.0
+79120,realme C61 4GB 128GB,Realme,High,4,128,5000,50,5,Low,Mid,6.745,560,3,15,0,1,2390000.0
+79219,vivo Y18S 6GB 128GB,Vivo,High,6,128,5000,50,8,Medium,Mid,6.56,840,5,15,0,1,3590000.0
+79220,vivo V30E 12GB 256GB,Vivo,High,12,256,5500,120,84,High,Mid,6.78,395,4,44,1,0,8490000.0
+79801,BENCO V91 4GB 128GB,Unknown,High,4,128,5000,13,8,Low,Unknown,6.56,90,0,18,0,Unknown,2690000.0
+79802,Benco S1 Pro 8GB 256GB,Unknown,High,8,256,5000,64,16,Low,Mid,6.8,90,2,33,0,Unknown,4290000.0
+80254,vivo Y17s 4GB 64GB ,Vivo,High,4,64,5000,50,8,Medium,Mid,6.56,269,6,15,0,1,3090000.0
+80473,Samsung Galaxy M55 12GB 256GB,Samsung,High,12,256,5000,123,50,High,Mid,6.7,120,5,45,1,0,7790000.0
+81322,vivo Y18,Vivo,High,8,128,5000,50,8,Medium,Mid,6.56,90,6,15,0,1,2890000.0
+82060,Xiaomi Redmi Note 13 Pro 8GB 256GB ,Xiaomi,High,8,256,5000,200,16,Medium,Mid,6.67,120,6,67,1,1,5790000.0
+82061,OPPO A60,Oppo,High,8,128,5000,50,8,Medium,Mid,6.67,90,2,45,0,1,5050000.0
+82062,Xiaomi POCO M6 6GB 128GB - Chỉ có tại CellphoneS,Xiaomi,High,6,128,5030,108,13,Medium,Mid,6.79,450,5,33,1,1,3190000.0
+82067,Redmi Note 13 Pro 5G 12GB 512GB,Xiaomi,High,12,512,5100,200,16,High,Mid,6.67,120,6,67,1,1,8290000.0
+82082,Xiaomi Redmi 14C 4GB 128GB,Xiaomi,High,4,128,5160,50,13,Medium,Unknown,6.88,600,0,18,Unknown,1,2850000.0
+82085,Xiaomi Redmi Note 13 Pro 5G,Xiaomi,High,8,256,5100,200,16,Medium,Mid,6.67,120,6,67,Unknown,1,8190000.0
+82236,vivo Y36 8GB 256GB,Vivo,High,8,256,5000,50,16,Medium,Mid,6.64,90,5,44,0,1,5390000.0
+82256,Infinix Note 40 Pro 8GB 256GB,Infinix,High,8,256,5000,108,32,Medium,Mid,6.78,550,5,70,1,1,5790000.0
+82444,Samsung Galaxy M35 5G 8GB 256GB,Samsung,High,8,256,6000,123,13,Low,Mid,6.6,120,4,25,1,0,8490000.0
+82889,TECNO CAMON 30 12GB 256GB,Tecno,High,12,256,5000,1440,1440,Medium,Mid,6.78,120,4,70,1,Unknown,5090000.0
+82915,Nokia 3210 4G ,Nokia,Unknown,Unknown,128,1450,2,Unknown,Low,Unknown,2.4,QVGA,0,Unknown,Unknown,1,1480000.0
+83010,OPPO Reno12 5G 12GB 256GB,Oppo,High,12,256,5000,50,32,High,Unknown,6.7,120,0,80,1,Unknown,8390000.0
+83012,OPPO Reno12 F 5G 8GB 256GB,Oppo,High,8,256,5000,50,32,High,Unknown,6.7,120,0,45,1,Unknown,6690000.0
+83040,Sony Xperia 10VI 8GB 128GB,Sony,High,8,128,5000,48,26,High,Mid,6.1,120,0,Unknown,1,1,8290000.0
+83041,Sony Xperia 1VI 12GB 256GB,Sony,High,12,256,5000,170,24,High,High,6.5,240,0,Unknown,1,1,23490000.0
+83579,Masstel izi S3 4G,Masstel,Unknown,Unknown,16,1000,Unknown,Unknown,Unknown,Unknown,1.77,262,0,Unknown,Unknown,1,470000.0
+83931,OPPO A58 8GB 128GB,Oppo,High,8,128,5000,50,8,Medium,Mid,6.72,680,0,33,0,1,4500000.0
+84107,Samsung Galaxy S23 FE 8GB 256GB - ĐKH Online,Samsung,High,8,256,4500,50,10,Low,High,6.4,120,5,25,1,0,11890000.0
+84108,Samsung Galaxy S25 Plus 256GB,Samsung,High,12,256,4900,50,12,High,Unknown,6.7,120,0,45,1,Unknown,22700000.0
+84109,Samsung Galaxy S25 Ultra 12GB 256GB,Samsung,High,12,256,5000,200,12,High,Unknown,6.9,120,0,45,1,Unknown,27480000.0
+84110,Samsung Galaxy S25 256GB,Samsung,High,12,256,4000,50,12,High,Unknown,6.2,120,0,25,1,Unknown,16690000.0
+84111,Samsung Galaxy S25 FE 8GB 128GB,Samsung,High,8,128,4900,50,12,Low,Unknown,6.7,16,3,2,1,0,14390000.0
+84612,Samsung Galaxy Z Fold6 12GB 512GB,Samsung,Unknown,12,512,4400,50,10,High,Unknown,7.6,968,6,25,1,Unknown,34900000.0
+84613,Samsung Galaxy Z Fold6 12GB 1TB,Samsung,Unknown,12,1024,4400,50,10,High,Unknown,7.6,968,6,25,1,Unknown,45490000.0
+84614,Samsung Galaxy Z Flip6 12GB 512GB,Samsung,Unknown,12,512,4000,50,10,High,Unknown,6.7,748,6,Unknown,1,Unknown,21990000.0
+85242,Xiaomi Redmi Note 14 6GB 128GB,Xiaomi,High,6,128,5500,108,20,Medium,Mid,6.67,120,0,33,1,1,4450000.0
+85247,OPPO A3 6GB 128GB,Oppo,High,6,128,5100,50,5,High,Mid,6.67,90,4,45,0,1,4500000.0
+85280,OPPO Find X8 16GB 512GB,Oppo,High,16,512,5630,50,32,High,High,6.59,120,4,80,1,Unknown,20490000.0
+85458,OPPO Reno12 5G (12GB 512GB),Oppo,High,12,512,5000,50,32,Low,Unknown,6.7,120,0,80,1,Unknown,16090000.0
+85499,vivo Y28 8GB 128GB,Vivo,High,8,128,6000,50,8,Medium,Mid,6.68,264,4,44,0,1,4990000.0
+85500,vivo Y03 4GB 128GB,Vivo,High,4,128,5000,13,5,Low,Mid,6.56,269,3,15,0,1,2890000.0
+85820,OPPO A18 4GB 64GB,Oppo,High,4,64,5000,8,5,Medium,Mid,6.56,720,0,10,0,1,2890000.0
+86448,Điện thoại ZTE Blade  A55 4GB 64GB,ZTE,Unknown,4,64,5000,13,8,Low,Mid,6.75,90,2,10,0,1,1890000.0
+86449,Điện thoại ZTE Blade A55 4GB 128GB ,ZTE,Unknown,4,128,5000,13,8,Low,Unknown,6.75,90,2,10,0,1,1990000.0
+86450,Nubia V60 Design 6GB 256GB,Nubia,Unknown,6,256,5000,50,8,Low,Mid,6.6,90,2,22.5,0,1,2690000.0
+86542,realme C61 6GB 128GB,Realme,High,6,128,5000,50,5,Low,Mid,6.745,560,3,15,0,1,2790000.0
+86565,OPPO A3X,Oppo,High,4,128,5100,78,5,High,Mid,6.67,90,5,45,0,1,3990000.0
+87123,OPPO A3 8GB 256GB,Oppo,High,8,256,5100,50,5,High,Mid,6.67,90,4,45,0,1,5480000.0
+87124,Xiaomi Redmi 13 6GB 128GB - Đã Kích Hoạt,Xiaomi,High,6,128,5030,108,13,Medium,Mid,6.79,550,0,33,1,1,2490000.0
+87242,Nubia Music NFC 4GB 128GB (Bản đặc biệt),Nubia,Unknown,4,128,5000,50,5,Unknown,Unknown,6.6,90,0,33,1,1,2090000.0
+87306,realme C65 8GB 128GB,Realme,High,8,128,5000,50,8,Medium,Mid,6.67,625,0,45,0,1,4430000.0
+88446,Itel RS4 8GB 256GB NFC,Itel,High,8,256,5000,50,8,Medium,Mid,6.56,269,3,45,1,1,3290000.0
+88453,Xiaomi 15 5G 12GB 256GB,Xiaomi,Unknown,12,256,5240,115,90,High,Unknown,6.36,300,6,90,1,Unknown,20290000.0
+88455,Xiaomi 15 Ultra 5G 16GB 512GB,Xiaomi,Unknown,16,512,5410,200,90,High,Unknown,6.73,300,6,90,1,Unknown,31990000.0
+88459,realme Note 60 4GB 64GB,Realme,High,4,64,5000,32,5,Low,Mid,6.74,560,5,10,0,1,2490000.0
+88563,Samsung Galaxy A16 5G 8GB 128GB,Samsung,Unknown,8,128,5000,50,13,High,Mid,6.7,800,3,25,1,Unknown,5290000.0
+88564,Samsung Galaxy A06 4GB 128GB,Samsung,Unknown,4,128,5000,50,8,Medium,Unknown,6.7,16,3,25,Unknown,1,3090000.0
+88631,Masstel Fami 12S 4G,Masstel,Unknown,Unknown,Unknown,1400,Unknown,Unknown,Low,Unknown,1.77,262,0,Unknown,0,Unknown,650000.0
+88715,Nokia HMD 105 4G,Nokia,Unknown,Unknown,128,1450,2,Unknown,Low,Unknown,2.4,QVGA,0,Unknown,Unknown,1,640000.0
+89100,vivo Y03t 4GB 64GB,Vivo,High,4,64,5000,13,5,Low,Unknown,6.56,Unknown,4,15,0,Unknown,2900000.0
+89107,realme C65s 8GB 256GB,Realme,High,8,256,5000,50,8,Low,Mid,6.745,560,3,45,0,1,3990000.0
+9,Xiaomi Mi MIX 2 Chính hãng,Xiaomi,Low,Unknown,64,3400,12,1080,High,Unknown,5.99,Unknown,0,Unknown,Unknown,Unknown,7700000.0
+90112,iPhone 16 256GB | Chính hãng VN/A,Apple,High,Unknown,256,Unknown,100,12,High,Mid,6.1,460,7,25,1,Unknown,22990000.0
+90114,iPhone 16 Plus 256GB | Chính hãng VN/A,Apple,High,Unknown,256,Unknown,100,12,High,Mid,6.7,460,7,25,1,Unknown,27790000.0
+90115,iPhone 16 Plus 512GB | Chính hãng VN/A,Apple,High,Unknown,512,Unknown,100,12,High,Mid,6.7,460,0,25,1,Unknown,29490000.0
+90116,iPhone 16 Pro Max 512GB | Chính hãng VN/A,Apple,High,Unknown,512,Unknown,120,12,High,High,6.9,120,7,25,1,Unknown,36990000.0
+90117,iPhone 16 Pro Max 1TB | Chính hãng VN/A,Apple,High,Unknown,1024,Unknown,120,12,High,High,6.9,120,7,25,1,Unknown,42690000.0
+90118,iPhone 16 Pro 256GB | Chính hãng VN/A,Apple,High,Unknown,256,Unknown,120,12,High,High,6.3,460,7,25,1,Unknown,28790000.0
+90119,iPhone 16 Pro 512GB | Chính hãng VN/A,Apple,High,Unknown,512,Unknown,120,12,High,High,6.3,460,7,25,1,Unknown,33990000.0
+90120,iPhone 16 Pro 1TB | Chính hãng VN/A,Apple,High,Unknown,1024,Unknown,120,12,High,High,6.3,460,7,25,1,Unknown,37690000.0
+90306,Masstel izi 16 4G,Masstel,Unknown,Unknown,128,1000,Unknown,Unknown,Low,Unknown,1.77,QQVGA,0,Unknown,Unknown,1,450000.0
+90478,TECNO SPARK Go 1 4GB 64GB,Tecno,Unknown,4,64,5000,13,8,Low,Unknown,6.67,120,0,15,Unknown,Unknown,1860000.0
+90480,TECNO SPARK 30C 4GB 128GB,Tecno,High,4,128,5000,48,8,Medium,Mid,6.67,Unknown,0,18,1,1,2190000.0
+90675,Itel 8010 4G ,Itel,High,8,128,1000,50,8,Low,Mid,2,160,3,1.75,0,1,390000.0
+90676,Itel 9211 4G,Itel,Unknown,64,Unknown,1000,Unknown,Unknown,Unknown,Unknown,2.4,Unknown,0,Unknown,0,1,490000.0
+90677,Itel 9310 4G,Itel,Unknown,64,128,2000,Unknown,Unknown,Unknown,Unknown,3,Unknown,0,Unknown,0,Unknown,650000.0
+90682,realme 13+ 5G 8GB 256GB,Realme,High,8,256,5000,882,16,Low,High,6.67,120,4,80,1,1,6590000.0
+90941,Xiaomi 14T - Xanh dương,Xiaomi,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,0,Unknown,Unknown,Unknown,14990000.0
+91269,TECNO SPARK 30 5G 6GB 128GB,Tecno,Unknown,6,128,5000,108,Unknown,Low,Unknown,Unknown,120,0,18,Unknown,Unknown,3410000.0
+91270,TECNO CAMON 30S 8GB 256GB,Tecno,High,8,256,5000,100,13,Low,Unknown,6.78,120,0,33,1,Unknown,4090000.0
+91339,vivo Y03t 4GB 128GB,Vivo,High,4,128,5000,13,5,Low,Unknown,6.56,Unknown,4,15,0,Unknown,3190000.0
+91445,Viettel T2 4G,Viettel,Unknown,48,128,1400,0.08,5,Low,Unknown,2.4,2.4,4,5,0,Unknown,530000.0
+91991,Xiaomi Redmi Note 14 Pro Plus 5G 8GB 256GB,Xiaomi,High,8,256,5110,200,2.2,High,Unknown,6.67,120,0,120,1,Unknown,8990000.0
+92291,TECNO SPARK Go 1 4GB 64GB - Đã kích hoạt,Tecno,Unknown,4,64,5000,13,8,Low,Unknown,6.67,120,0,15,Unknown,Unknown,1690000.0
+92990,vivo Y19S 8GB 128GB ,Vivo,High,8,128,5500,50,5,Low,Unknown,6.68,264,5,15,0,Unknown,4310000.0
+92993,Nothing Phone 2A 5G 8GB 128GB - Chỉ có tại CellphoneS,Unknown,High,8,128,5000,114,32,High,Unknown,6.7,394,0,45,1,Unknown,6990000.0
+92995,Nothing Phone CMF 1 8GB 128GB,Unknown,High,8,128,5000,50,16,High,Low,6.67,395,0,33,0,Unknown,6490000.0
+93386,Điện thoại Meizu Mblu 21 4GB 64GB ,Meizu,High,4,64,4900,13,8,Low,Mid,6.79,264,3,18.96,0,1,1990000.0
+93387,Điện thoại Meizu Mblu 21 6GB 128GB ,Meizu,High,6,128,4900,13,8,Low,Unknown,6.79,Unknown,0,18.96,0,Unknown,2390000.0
+93646,Samsung Galaxy A06 5G 4GB 128GB,Samsung,Unknown,4,128,5000,50,8,High,Mid,6.7,576,3,25,Unknown,1,2890000.0
+93649,Samsung Galaxy A16 LTE 4GB 128GB,Samsung,High,4,128,5000,50,13,Medium,Mid,6.7,90,3,25,1,0,3900000.0
+93788,Nothing Phone 2A Plus 5G 12GB 256GB - Chỉ có tại CellphoneS,Unknown,High,12,256,5000,50,50,High,Mid,6.7,120,0,50,1,Unknown,7590000.0
+93817,Nothing Phone 2A 5G 12GB 256GB - Chỉ có tại CellphoneS,Unknown,High,12,256,5000,114,32,High,Unknown,6.7,394,0,45,1,Unknown,8190000.0
+93818,Nothing Phone CMF 1 8GB 256GB,Unknown,High,8,256,5000,50,16,High,Low,6.67,395,0,33,0,Unknown,7090000.0
+95959,OPPO Reno13 F 8GB 256GB,Oppo,High,8,256,5800,50,32,Medium,Mid,6.67,120,4,45,1,0,8530000.0
+95960,OPPO Reno13 F 5G 12GB 256GB,Oppo,High,12,256,5800,50,32,High,Mid,6.67,120,4,45,1,Unknown,9990000.0
+96372,realme Note 60x 3GB 64GB,Realme,Unknown,3,64,5000,8,5,Low,Unknown,6.74,90,0,10,0,Unknown,2690000.0
+96373,TECNO SPARK 30 Pro 8GB 256GB Transformer - Chỉ có tại CellphoneS,Tecno,High,8,256,5000,108,13,Medium,Unknown,6.78,120,0,33,1,Unknown,3890000.0
+96374,TECNO CAMON 40 8GB 256GB,Tecno,High,8,256,5200,50,32,Medium,Unknown,6.78,120,0,45,1,Unknown,5380000.0
+96376,Xiaomi Redmi 15C 4GB 128GB NFC,Xiaomi,Low,4,128,6000,50,8,Medium,Mid,6.9,810,4,33,1,1,3490000.0
+96530,Itel P55 Plus 8GB 128GB ,Itel,High,8,128,5000,50,8,Low,Mid,6.6,90,3,45,1,1,2590000.0
+96763,Infinix Hot 50 8GB 256GB,Infinix,High,8,256,5000,50,8,Medium,Unknown,6.78,800,0,18,1,Unknown,3790000.0
+96765,Infinix Hot 50 Pro Plus 8GB 256GB,Infinix,High,8,256,5000,50,13,Medium,Unknown,6.78,120,0,33,1,Unknown,4790000.0
+96795,Xiaomi Redmi Note 13 Pro 5G 8GB 256GB ,Xiaomi,High,8,256,5100,200,16,High,Mid,6.67,120,6,67,1,1,6790000.0
+96948,Nubia Neo 3 GT 12GB 256GB,Nubia,High,12,256,6000,50,16,Low,Unknown,6.8,120,0,80,1,Unknown,6590000.0
+96949,Điện thoại Nubia Z70 Ultra 5G 16GB 512GB bản đặc biệt,Nubia,High,16,512,6150,64,16,High,Unknown,6.85,144,3,80,1,Unknown,22990000.0
+97391,Itel RS4 8GB 128GB NFC,Itel,High,8,128,5000,50,8,Medium,Mid,6.56,269,3,45,1,1,2990000.0
+98130,Itel RS4 12GB 256GB NFC,Itel,High,12,256,5000,50,8,Medium,Mid,6.56,269,3,45,1,1,3190000.0
+98498,Samsung Galaxy S25 Ultra 512GB,Samsung,High,12,512,5000,200,12,High,Unknown,6.9,120,0,45,1,Unknown,29480000.0
+98504,Samsung Galaxy S25 Ultra 1TB,Samsung,High,12,1024,5000,200,12,High,Unknown,6.9,120,0,45,1,Unknown,35490000.0
+98510,Samsung Galaxy S25 Plus 512GB,Samsung,High,12,512,4900,50,12,High,Unknown,6.7,120,0,45,1,Unknown,24440000.0
+98517,Samsung Galaxy S25 512GB,Samsung,High,12,512,4000,50,12,High,Unknown,6.2,120,0,25,1,Unknown,20690000.0
+98769,OPPO FIND N5,Oppo,High,16,512,5600,50,8,High,High,8.12,120,4,80,1,Unknown,44180000.0
+99364,Xiaomi POCO X7 Pro 5G 12GB 256GB - Chỉ có tại CellphoneS,Xiaomi,High,12,256,6000,50,Unknown,Low,High,6.67,120,7,90,1,0,9090000.0
+99437,Samsung Galaxy A05S 6GB 128GB,Samsung,High,6,128,5000,50,13,Medium,Mid,6.7,500,3,25,0,1,3290000.0
+99686, Xiaomi 15 Ultra 5G 16GB 1TB ,Xiaomi,Unknown,16,1024,5410,200,90,High,Unknown,6.73,300,6,90,1,Unknown,31990000.0
+99687,Xiaomi 15T 5G 12GB 512GB,Xiaomi,Low,12,512,5500,800,32,High,Unknown,6.83,68,0,67,Unknown,Unknown,14990000.0
+99688, Xiaomi 15T Pro 5G 12GB 512GB,Xiaomi,Low,12,512,5500,900,32,High,Unknown,6.83,447,0,90,Unknown,Unknown,19490000.0
+99715,ZTE Nubia Z60S Pro 12GB 256GB,ZTE,High,12,256,5100,50,16,High,Unknown,6.78,452,4,80,1,Unknown,9990000.0
+99738,Samsung Galaxy A26 5G 8GB 128GB,Samsung,High,8,128,5000,50,13,Low,Mid,6.7,800,0,25,1,Unknown,6270000.0
+99767,Samsung Galaxy A36 5G 8GB 128GB,Samsung,Unknown,8,128,5000,50,12,High,Unknown,6.7,120,5,45,1,0,7540000.0
+99768,Samsung Galaxy A56 5G 8GB 128GB,Samsung,Unknown,8,128,5000,50,12,Low,Unknown,6.7,120,4,Unknown,1,0,9310000.0
+99769,Samsung Galaxy Z Flip7 12GB 256GB,Samsung,Unknown,12,256,4300,50,10,Low,Unknown,6.9,948,4,Unknown,1,0,25990000.0
+99770,Samsung Galaxy Z Fold7 12GB 256GB,Samsung,Unknown,12,256,4400,200,10,High,Unknown,8,120,4,Unknown,1,0,42990000.0
+99773,Tecno Pova 7 8GB 128GB,Tecno,High,8,128,7000,108,8,Medium,Mid,6.78,900,3,45,1,1,3990000.0
+99776,TECNO CAMON 40 Pro 8GB 256GB,Tecno,High,8,256,5200,50,50,Medium,Unknown,6.78,120,0,45,1,Unknown,5670000.0
+99862,TECNO CAMON 40 8GB 128GB,Tecno,High,8,128,5200,50,32,Medium,Unknown,6.78,120,0,45,1,Unknown,5090000.0
