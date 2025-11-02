@@ -105,9 +105,7 @@ def process_gpu(df):
     df["gpu"] = df[gpu_col].apply(gpu_performance_bin)
     return df
 
-# ======================================================
-# 🧩 Ví dụ sử dụng
-# ======================================================
+# Ví dụ sử dụng
 if __name__ == "__main__":
     data = {
         "gpu": [

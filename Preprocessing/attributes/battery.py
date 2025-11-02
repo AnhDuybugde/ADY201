@@ -3,9 +3,7 @@ import pandas as pd
 import re
 import numpy as np
 
-# ======================================================
-# 🔢 Hàm trích xuất dung lượng pin
-# ======================================================
+# Hàm trích xuất dung lượng pin
 def extract_battery_capacity(val):
     """
     Lấy số dung lượng pin từ chuỗi.
@@ -33,9 +31,7 @@ def extract_battery_capacity(val):
     
     return val_int
 
-# ======================================================
-# 🧩 Hàm xử lý DataFrame
-# ======================================================
+# Hàm xử lý DataFrame
 def process_battery(df):
     """
     Xử lý cột battery trong DataFrame:
@@ -49,9 +45,7 @@ def process_battery(df):
     df["battery"] = df[battery_col].apply(extract_battery_capacity)
     return df
 
-# ======================================================
-# 🧩 Ví dụ sử dụng
-# ======================================================
+# Ví dụ sử dụng
 if __name__ == "__main__":
     data = {
         "battery": [

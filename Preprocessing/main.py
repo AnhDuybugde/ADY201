@@ -23,16 +23,12 @@ import sys, os
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 
-# ----------------------------
 # KẾT NỐI DATABASE
-# ----------------------------
 conn, cursor = get_connection()
 create_table_if_not_exists(cursor)
 conn.commit()
 
-# ----------------------------
 # LẤY DỮ LIỆU MỚI
-# ----------------------------
 df_track = pd.read_sql(f"SELECT * FROM {TRACK_TABLE} WHERE processed=0 OR processed IS NULL", conn)
 if df_track.empty:
     print("Không có dữ liệu mới để xử lý.")
@@ -41,14 +37,10 @@ print(f"Có {len(df_track)} bản ghi mới.")
 
 print(df_track.columns.tolist())
 
-# ----------------------------
 # XỬ LÝ GIÁ: ƯU TIÊN SPECIAL_PRICE (chỉ giữ record có price)
-# ----------------------------
 df_track = compute_final_price(df_track)
 
-# ----------------------------
 # CHUẨN HÓA 
-# ----------------------------
 df_track["manufacturer"] = df_track.apply(infer_brand, axis=1)
 df_track = process_os(df_track)
 df_track = process_ram(df_track)
@@ -63,23 +55,16 @@ df_track = process_sensor(df_track)
 df_track = process_nfc_column(df_track)
 df_track = process_jack_support(df_track)
 
-# ----------------------------
 # Chuẩn hóa numeric
-# ----------------------------
 df_track = clean_numeric_column(df_track, ["ram","storage","battery","watt","price"])
 
-# ----------------------------
 # CHUẨN HÓA DỮ LIỆU TRƯỚC KHI LƯU
-# ----------------------------
 df_saving = normalize_for_saving(df_track)
 
-#---------------------------------------------------
 print("Tổng dòng trong df_saving:", len(df_saving))
 print("Số product_id duy nhất:", df_saving["product_id"].nunique())
 
-# ----------------------------
 # GHI LÊN BẢNG SAVING
-# ----------------------------
 upsert_saving(cursor, df_saving)
 conn.commit()
 

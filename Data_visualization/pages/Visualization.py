@@ -1,12 +1,14 @@
 import sys, os
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-
 import streamlit as st
 import pandas as pd
 from utils.db_utils import load_data
+from utils.db2_utils import get_connection, create_table_if_not_exists
 from utils.plot_utils import plot_chart
 from Data_visualization.utils.preprocess_data import preprocess_data
+from inserter import overwrite_table
 from datetime import datetime
+from config import SAVING_TABLE, VISUAL_DATA, NUMERIC_DATA, MODEL_DATA
 
 st.title("Visualization Dashboard")
 
@@ -25,11 +27,9 @@ mode = st.radio(
 )
 
 
-# --- Load dữ liệu từ DB ---
-base_dir = os.path.dirname(os.path.abspath(__file__))
-csv_path = os.path.join(base_dir, "..", "utils", "processed_data_visual", "visual_data.csv")
+# Load dữ liệu 
+df = load_data(SAVING_TABLE)
 
-df = pd.read_csv(csv_path)
 if df is None or df.empty:
     st.warning("Không có dữ liệu để hiển thị.")
     st.stop()
@@ -37,16 +37,40 @@ if df is None or df.empty:
 # Tiền xử lý theo mode 
 df = preprocess_data(df, mode=mode)
 st.success(f"Dữ liệu đã được xử lý theo chế độ: **{mode.upper()}**")
-st.write("### Dữ liệu mẫu sau xử lý", df.head())
+st.markdown("## Dữ liệu mẫu sau xử lý")
+st.dataframe(df.head())
 
+# Nút lưu dữ liệu vào SQL Server
+if st.button("Lưu dữ liệu vào SQL Server"):
+    TABLE_MAPPING = {
+    "visual":VISUAL_DATA,
+    "numeric":NUMERIC_DATA,
+    "model":MODEL_DATA
+    }
+
+    table_name = TABLE_MAPPING[mode]
+
+    # Tạo kết nối và con trỏ
+    conn, cursor = get_connection()
+
+    try:
+        overwrite_table(cursor, df, table_name)
+        conn.commit()
+        st.success(f"Dữ liệu đã được lưu vào SQL Server với bảng: {table_name}")
+    except Exception as e:
+        st.error(f"Lưu dữ liệu thất bại: {e}")
+    finally:
+        cursor.close()
+        conn.close()
 
 # Gợi ý biểu đồ phù hợp theo chế độ
 chart_options = {
-    "visual": ["Histogram", "Bar", "Pie"],
+    "visual": ["Histogram", "Bar", "Pie","Countplot"],
     "numeric": ["Histogram", "Boxplot", "Violin", "Scatter", "Line", "Heatmap (corr)"],
     "model": ["Scatter", "Boxplot", "Violin", "Pairplot", "Heatmap (corr)"]
 }
 
+st.markdown("## Vẽ biểu đồ từ dữ liệu đã xử lý")
 # Chọn loại biểu đồ phù hợp
 chart_type = st.selectbox(
     "Chọn loại biểu đồ muốn vẽ:",

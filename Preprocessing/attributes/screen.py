@@ -42,9 +42,7 @@ def process_screen(df):
     df["screen"] = df[screen_col].apply(extract_screen_hz)
     return df
 
-# =========================
 # Ví dụ test
-# =========================
 if __name__ == "__main__":
     data = {
         "screen": ["120Hz", "60Hz / 90Hz", "144", None, "60 Hz", "QQVGA", "8e+006", "True-tone"]

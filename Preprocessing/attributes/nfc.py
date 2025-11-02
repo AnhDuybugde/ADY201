@@ -24,9 +24,7 @@ def process_nfc_column(df):
     return df
 
 
-# =========================
 # Ví dụ test
-# =========================
 if __name__ == "__main__":
     data = {
         "nfc": ["Có NFC", "Không hỗ trợ", None, "Có", "không"]

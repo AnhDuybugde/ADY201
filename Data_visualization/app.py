@@ -1,29 +1,24 @@
 import os
 import sys
-import pyodbc
 import streamlit as st
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-
-# ====== Cấu hình đường dẫn ======
+# Cấu hình đường dẫn 
 # Đảm bảo có thể import từ thư mục gốc (Data_visualization)
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 from utils.db_utils import load_data
-from pages.Visualization import plot_chart
+from config import SAVING_TABLE
 
-# ====== Tải dữ liệu ======
-df = load_data()
+# Tải dữ liệu 
+df = load_data(SAVING_TABLE)
 
-# ====== Cấu hình giao diện Streamlit ======
+# Cấu hình giao diện Streamlit 
 st.set_page_config(
     page_title="Dashboard — SQL Data",
     page_icon="📊",
     layout="wide"
 )
 
-# ====== Sidebar ======
+# Sidebar 
 with st.sidebar:
     # Xác định đường dẫn tuyệt đối tới ảnh logo
     current_dir = os.path.dirname(__file__)
@@ -33,14 +28,14 @@ with st.sidebar:
     if os.path.exists(logo_path):
         st.image(logo_path, width=120)
     else:
-        st.warning("⚠️ Logo file không tìm thấy: assets/logo-fpt.jpg")
+        st.warning("Logo file không tìm thấy: assets/logo-fpt.jpg")
 
-    st.title("📊 Data Dashboard")
+    st.title("Data Dashboard")
     st.markdown("---")
-    st.markdown("Chọn trang ở menu bên trái ⬅️")
+    st.markdown("Chọn trang ở menu bên trái")
 
-# ====== Nội dung chính ======
-st.title("🏠 Trang chính")
+# Nội dung chính 
+st.title("Trang chính")
 st.markdown("""
 Chào mừng đến **Visualization Dashboard**.  
 Bạn có thể khám phá dữ liệu, vẽ biểu đồ, hoặc thử mô hình AI.
@@ -52,6 +47,4 @@ if df is not None and not df.empty:
 else:
     st.error("Không thể tải dữ liệu. Vui lòng kiểm tra hàm `load_data()` trong utils/db_utils.py")
 
-# Gợi ý dòng chạy trong terminal:
-# streamlit run C:/Users/jloy5/OneDrive/Desktop/PricesPhone_Regression/Data_visualization/app.py
-# streamlit run C:/Users/jloy5/ADY201/Data_visualization/app.py --server.runOnSave=false
+

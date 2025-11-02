@@ -74,10 +74,10 @@ def fetch_products():
     all_products = []
 
     for province_id, province_name in province_list.items():
-        print(f"\n🏙️ Đang lấy dữ liệu cho {province_name} (ID = {province_id})")
+        print(f"\nĐang lấy dữ liệu cho {province_name} (ID = {province_id})")
 
         for page in range(1, MAX_PAGES + 1):
-            print(f"   📄 Trang {page}...")
+            print(f"Trang {page}...")
 
             payload = {
                 "query": f"""
@@ -96,7 +96,7 @@ def fetch_products():
                             dynamic: {{}}
                         }},
                         page: {page},
-                        size: 20,
+                        size: 500,
                         sort: [{{view: desc}}]
                     ){{
                         general{{
@@ -132,13 +132,13 @@ def fetch_products():
             try:
                 res = requests.post(URL, headers=HEADERS, json=payload)
                 if res.status_code != 200:
-                    print(f"   ❌ HTTP {res.status_code}, bỏ qua {province_name}.")
+                    print(f"HTTP {res.status_code}, bỏ qua {province_name}.")
                     break
 
                 data = res.json()
                 products = data.get("data", {}).get("products", [])
                 if not products:
-                    print(f"   ⚠️ Trang {page} không có dữ liệu, dừng lại.")
+                    print(f"Trang {page} không có dữ liệu, dừng lại.")
                     break
 
                 for p in products:
@@ -146,12 +146,12 @@ def fetch_products():
                     p["province_name"] = province_name
 
                 all_products.extend(products)
-                print(f"   ✅ Lấy xong trang {page}, tổng cộng {len(all_products)} sản phẩm.")
+                print(f"Lấy xong trang {page}, tổng cộng {len(all_products)} sản phẩm.")
                 time.sleep(1)
 
             except Exception as e:
-                print(f"   ⚠️ Lỗi khi lấy dữ liệu: {e}")
+                print(f"Lỗi khi lấy dữ liệu: {e}")
                 break
 
-    print(f"\n🎯 Hoàn tất! Tổng cộng {len(all_products)} sản phẩm lấy được.")
+    print(f"\nHoàn tất! Tổng cộng {len(all_products)} sản phẩm lấy được.")
     return all_products

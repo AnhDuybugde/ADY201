@@ -2,9 +2,7 @@ import pandas as pd
 import numpy as np
 import re
 
-# ======================================================
-# 🔢 Hàm trích xuất RAM cơ bản (chỉ số đầu tiên)
-# ======================================================
+# Hàm trích xuất RAM cơ bản (chỉ số đầu tiên)
 def extract_ram_basic(val):
     """
     Lấy số RAM cơ bản từ chuỗi, bỏ qua RAM mở rộng.
@@ -23,9 +21,7 @@ def extract_ram_basic(val):
         return int(num) if num.is_integer() else num
     return np.nan
 
-# ======================================================
-# 🧩 Hàm chính để pipeline gọi
-# ======================================================
+# Hàm chính để pipeline gọi
 def process_ram(df, col_name="memory_internal"):
     """
     Xử lý cột RAM:
@@ -38,9 +34,7 @@ def process_ram(df, col_name="memory_internal"):
     df["ram"] = df[col_name].apply(extract_ram_basic)
     return df
 
-# ======================================================
-# 🧩 Test nhanh
-# ======================================================
+# Test nhanh
 if __name__ == "__main__":
     data = {
         "memory_internal": [

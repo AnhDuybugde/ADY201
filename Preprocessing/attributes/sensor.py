@@ -26,9 +26,7 @@ def process_sensor(df):
     df["sensor"] = df[sensor_col].apply(count_sensors)
     return df
 
-# =========================
 # Ví dụ test
-# =========================
 if __name__ == "__main__":
     data = {
         "sensor": [

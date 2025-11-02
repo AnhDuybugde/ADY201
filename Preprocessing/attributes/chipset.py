@@ -2,9 +2,7 @@
 import pandas as pd
 import re
 
-# ======================================================
-# 🔢 Hàm phân loại hiệu năng chipset
-# ======================================================
+# Hàm phân loại hiệu năng chipset
 def performance_bin(chip):
     """
     Phân loại chipset thành High / Medium / Low / NULL
@@ -96,9 +94,7 @@ def performance_bin(chip):
     # Mặc định
     return "Low"
 
-# ======================================================
-# 🧩 Hàm xử lý DataFrame
-# ======================================================
+# Hàm xử lý DataFrame
 def process_chipset(df):
     """
     Tạo cột Chipset_Performance dựa trên chipset.
@@ -110,9 +106,7 @@ def process_chipset(df):
     df["chipset"] = df[chip_col].apply(performance_bin)
     return df
 
-# ======================================================
-# 🧩 Ví dụ sử dụng
-# ======================================================
+# Ví dụ sử dụng
 if __name__ == "__main__":
     data = {
         "chipset": ["Snapdragon 888", "Kirin 810", "Dimensity 900", "Exynos 850", "Apple A15 Bionic", None]

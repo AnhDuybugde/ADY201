@@ -3,9 +3,7 @@ import pandas as pd
 import re
 import numpy as np
 
-# ======================================================
-# 🔢 Hàm trích xuất kích thước màn hình lớn nhất (inch)
-# ======================================================
+# Hàm trích xuất kích thước màn hình lớn nhất (inch)
 def extract_display_size(val):
     """
     Lấy số lớn nhất trong chuỗi mô tả màn hình.
@@ -25,9 +23,7 @@ def extract_display_size(val):
     # Lấy số lớn nhất
     return max(float(n) for n in nums)
 
-# ======================================================
-# 🧩 Hàm xử lý DataFrame
-# ======================================================
+# Hàm xử lý DataFrame
 def process_display(df):
     """
     Xử lý cột màn hình:
@@ -41,9 +37,7 @@ def process_display(df):
     df["display_size"] = df[display_col].apply(extract_display_size)
     return df
 
-# ======================================================
-# 🧩 Ví dụ sử dụng
-# ======================================================
+# Ví dụ sử dụng
 if __name__ == "__main__":
     data = {
         "display_size": ["6.1 inch / 6.7 inch", "5,8\"", "6.5", None, "7 inch"]

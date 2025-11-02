@@ -17,13 +17,13 @@ print("SERVER:", SERVER)
 print("DATABASE:", DATABASE)
 print("SAVING_TABLE:", SAVING_TABLE)
 
-def load_data():
+def load_data(table_name):
     """
     Kết nối SQL Server và trả về DataFrame từ table 'Phones_Saving'.
     Có thể chạy trực tiếp bằng Python để test.
     """
     if not SERVER or not DATABASE:
-        raise ValueError("❌ Cần thiết lập SERVER và DATABASE trong file .env")
+        raise ValueError("Cần thiết lập SERVER và DATABASE trong file .env")
 
     try:
         conn = pyodbc.connect(
@@ -33,9 +33,9 @@ def load_data():
             f"Trusted_Connection=yes;"
         )
     except Exception as e:
-        raise ConnectionError(f"❌ Không thể kết nối SQL Server: {e}")
+        raise ConnectionError(f"Không thể kết nối SQL Server: {e}")
 
-    df = pd.read_sql(f"SELECT * FROM {SAVING_TABLE}", conn)
+    df = pd.read_sql(f"SELECT * FROM {table_name}", conn)
     conn.close()
     return df
 
@@ -45,4 +45,4 @@ def get_data():
     """
     Dùng khi gọi từ Streamlit để cache dữ liệu.
     """
-    return load_data()
+    return load_data(table_name = SAVING_TABLE)

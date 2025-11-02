@@ -53,4 +53,4 @@ def insert_many(rows):
         cursor.execute(insert_query, row)
     conn.commit()
     conn.close()
-    print(f"🎉 Đã lưu {len(rows)} sản phẩm vào bảng '{TABLE_NAME}'.")
+    print(f"Đã lưu {len(rows)} sản phẩm vào bảng '{TABLE_NAME}'.")

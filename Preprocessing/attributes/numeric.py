@@ -1,9 +1,7 @@
 import pandas as pd
 import re
 
-# ======================================================
-# 🔢 Chuẩn hóa các cột numeric (RAM, ROM, watt, nfc, price…)
-# ======================================================
+# Chuẩn hóa các cột numeric (RAM, ROM, watt, nfc, price…)
 def clean_numeric_column(df, col_list):
     """
     Ép các cột numeric về float hợp lệ.
@@ -22,9 +20,8 @@ def clean_numeric_column(df, col_list):
     return df
 
 
-# ======================================================
-# 🧩 Test nhanh
-# ======================================================
+
+# Test nhanh
 if __name__ == "__main__":
     if __name__ == "__main__":
         df = pd.DataFrame({
@@ -49,17 +46,17 @@ if __name__ == "__main__":
         "display_size", "screen", "sensor", "watt"
     ]
 
-    # ✅ Thêm cột thiếu (để đảm bảo có đủ các cột cần test)
+    # Thêm cột thiếu (để đảm bảo có đủ các cột cần test)
     for col in numeric_features:
         if col not in df.columns:
             df[col] = None
 
     df = clean_numeric_column(df, numeric_features)
 
-    # ✅ Kiểm tra kết quả
+    # Kiểm tra kết quả
     for col in numeric_features:
         print(f"🔹 {col} → dtype: {df[col].dtype}")
         print(df[col].unique()[:5], "\n")
 
-    print("✅ DataFrame sau xử lý:")
+    print("DataFrame sau xử lý:")
     print(df)

@@ -3,9 +3,7 @@ import pandas as pd
 import re
 import numpy as np
 
-# ======================================================
-# 🔢 Hàm trích xuất ROM/Storage cơ bản
-# ======================================================
+# Hàm trích xuất ROM/Storage cơ bản
 def extract_rom_basic(val):
     """
     Lấy số ROM/Storage cơ bản từ chuỗi.
@@ -34,9 +32,7 @@ def extract_rom_basic(val):
     else:
         return int(num)  # fallback: coi như GB
 
-# ======================================================
-# 🧩 Hàm xử lý DataFrame
-# ======================================================
+# Hàm xử lý DataFrame
 def process_rom(df):
     """
     Xử lý cột ROM trong DataFrame:
@@ -50,9 +46,7 @@ def process_rom(df):
     df["rom"] = df[rom_col].apply(extract_rom_basic)
     return df
 
-# ======================================================
-# 🧩 Ví dụ sử dụng
-# ======================================================
+# Ví dụ sử dụng
 if __name__ == "__main__":
     data = {
         "storage": [
