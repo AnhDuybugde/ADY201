@@ -20,5 +20,5 @@ def compute_final_price(df):
     # Lọc bỏ giá <= 0 hoặc NaN
     df = df[pd.to_numeric(df["price"], errors="coerce") > 0].copy()
 
-    print(f"💰 Đã xử lý giá: còn lại {len(df)} bản ghi có price hợp lệ (> 0).")
+    print(f"Đã xử lý giá: còn lại {len(df)} bản ghi có price hợp lệ (> 0).")
     return df

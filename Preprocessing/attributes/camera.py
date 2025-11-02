@@ -3,9 +3,7 @@ import pandas as pd
 import re
 import numpy as np
 
-# ======================================================
-# 🔢 Hàm trích xuất số lớn nhất trong chuỗi
-# ======================================================
+# Hàm trích xuất số lớn nhất trong chuỗi
 def extract_max_number(val):
     """
     Trích xuất số lớn nhất từ chuỗi.
@@ -28,9 +26,7 @@ def extract_max_number(val):
     # Trả về số lớn nhất
     return max(float(n) for n in nums)
 
-# ======================================================
-# 🧩 Hàm xử lý DataFrame cho camera
-# ======================================================
+# Hàm xử lý DataFrame cho camera
 def process_camera(df):
     """
     Xử lý các cột camera_primary và camera_secondary trong DataFrame:
@@ -47,9 +43,7 @@ def process_camera(df):
     
     return df
 
-# ======================================================
-# 🧩 Ví dụ sử dụng
-# ======================================================
+# Ví dụ sử dụng
 if __name__ == "__main__":
     data = {
         "camera_primary": ["12 MP + 8 MP", "48", None, "64.0 MP", "8,0 + 2 MP"],

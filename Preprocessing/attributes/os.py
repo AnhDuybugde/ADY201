@@ -2,9 +2,7 @@ import pandas as pd
 import re
 import numpy as np
 
-# ======================================================
-# 🧹 B1. Làm sạch cột OS
-# ======================================================
+# B1. Làm sạch cột OS
 def clean_os(os_value):
     """Chuẩn hóa giá trị hệ điều hành (lowercase, xử lý missing)."""
     if pd.isna(os_value) or str(os_value).strip() == "":
@@ -18,9 +16,7 @@ def clean_os(os_value):
     
     return text
 
-# ======================================================
-# 🔢 B2. Trích xuất phiên bản OS (dạng số)
-# ======================================================
+# B2. Trích xuất phiên bản OS (dạng số)
 def extract_version(os_value):
     """Lấy version số từ chuỗi OS, ví dụ 'Android 13' → 13."""
     if os_value is None:
@@ -29,9 +25,7 @@ def extract_version(os_value):
     nums = re.findall(r'\d+', str(os_value))
     return int(max(nums, key=int)) if nums else None
 
-# ======================================================
-# 🧠 B3. Gộp nhóm (binning)
-# ======================================================
+# B3. Gộp nhóm (binning)
 def bin_os(row):
     """Phân loại OS theo cấp độ (High / Mid / Low / None)."""
     os_value = row["OS_Cleaned"]
@@ -79,9 +73,7 @@ def bin_os(row):
 
     return None
 
-# ======================================================
-# 🧩 B4. Hàm chính — dùng trong pipeline
-# ======================================================
+# B4. Hàm chính — dùng trong pipeline
 def process_os(df):
     """
     Chuẩn hóa + binning cột OS trong DataFrame.
@@ -104,9 +96,7 @@ def process_os(df):
 
     return df
 
-# ======================================================
-# 📝 Ví dụ test nhanh
-# ======================================================
+# Ví dụ test nhanh
 if __name__ == "__main__":
     data = {
         "os": ["Android 13", "iOS 16", "HarmonyOS 2", "Windows 10", None, "Android", "iOS 18"]

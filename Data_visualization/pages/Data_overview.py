@@ -5,7 +5,7 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')
 
 from utils.db_utils import get_data
 
-st.title("📊 Tổng quan dữ liệu") 
+st.title("Tổng quan dữ liệu") 
 # Lấy dữ liệu
 df = get_data()
 

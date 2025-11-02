@@ -35,9 +35,9 @@ conn.commit()
 # ----------------------------
 df_track = pd.read_sql(f"SELECT * FROM {TRACK_TABLE} WHERE processed=0 OR processed IS NULL", conn)
 if df_track.empty:
-    print("🟢 Không có dữ liệu mới để xử lý.")
+    print("Không có dữ liệu mới để xử lý.")
     exit()
-print(f"🟢 Có {len(df_track)} bản ghi mới.")
+print(f"Có {len(df_track)} bản ghi mới.")
 
 print(df_track.columns.tolist())
 
@@ -96,15 +96,11 @@ try:
         WHERE processed = 0 OR processed IS NULL
     """)
     conn.commit()
-    print("✅ Đã cập nhật processed = 1 cho toàn bộ bản ghi chưa xử lý.")
+    print("Đã cập nhật processed = 1 cho toàn bộ bản ghi chưa xử lý.")
 except Exception as e:
     conn.rollback()
-    print("❌ Lỗi trong quá trình xử lý:", e)
+    print("Lỗi trong quá trình xử lý:", e)
 
-
-# ----------------------------
 # ĐÓNG KẾT NỐI
-# ----------------------------
-    
 cursor.close()
 conn.close()

@@ -54,3 +54,4 @@ else:
 
 # Gợi ý dòng chạy trong terminal:
 # streamlit run C:/Users/jloy5/OneDrive/Desktop/PricesPhone_Regression/Data_visualization/app.py
+# streamlit run C:/Users/jloy5/ADY201/Data_visualization/app.py --server.runOnSave=false
