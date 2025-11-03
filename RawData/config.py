@@ -4,11 +4,11 @@ import pyodbc
 from dotenv import load_dotenv
 
 # Tự động load .env ở thư mục gốc
-load_dotenv()
+load_dotenv(dotenv_path=r"C:\Users\jloy5\ADY201\.env")
 
 SERVER = os.getenv("SERVER")
 DATABASE = os.getenv("DATABASE")
-TABLE_NAME = os.getenv("TABLE_NAME")
+TABLE_NAME = os.getenv("TRACK_TABLE")
 
 URL = os.getenv("URL")
 CATEGORY_ID = os.getenv("CATEGORY_ID")
