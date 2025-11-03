@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv
 
-load_dotenv(dotenv_path=r"C:\Users\jloy5\ADY201\Data_visualization\.env")
+load_dotenv(dotenv_path=r"C:\Users\jloy5\ADY201\.env")
 
 print("SERVER:", os.getenv("SERVER"))
 print("DATABASE:", os.getenv("DATABASE"))
