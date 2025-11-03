@@ -14,7 +14,6 @@ df = load_data(SAVING_TABLE)
 # Cấu hình giao diện Streamlit 
 st.set_page_config(
     page_title="Dashboard — SQL Data",
-    page_icon="📊",
     layout="wide"
 )
 

@@ -31,6 +31,11 @@ def preprocess_data(df, mode="visual"):
     if mode == "visual":
         return df
 
+    # Chuyển binary thành int
+    for col in binary_features:
+        if col in df.columns:
+            df[col] = df[col].astype(int)
+            
     # Chuyển numeric cột thành số và điền median 
     for col in numeric_features:
         if col in df.columns:
@@ -60,7 +65,7 @@ def preprocess_data(df, mode="visual"):
             encoder = OneHotEncoder(sparse_output=False, handle_unknown="ignore")
             encoded = encoder.fit_transform(df[[col]])
             encoded_df = pd.DataFrame(encoded, columns=[f"{col}_{v}" for v in encoder.categories_[0]])
-            encoded_dfs.append(encoded_df)
+            encoded_dfs.append(encoded_df.astype(int))
 
     if encoded_dfs:
         df_encoded_cat = pd.concat(encoded_dfs, axis=1)
