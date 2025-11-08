@@ -12,6 +12,7 @@ const Home = () => {
         params: { q: query },
       });
       setPhones(res.data);
+      // console.log(res.data)
     } catch (err) {
       console.error("Lỗi tải danh sách điện thoại:", err);
     }

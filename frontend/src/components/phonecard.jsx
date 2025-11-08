@@ -9,10 +9,10 @@ const PhoneCard = ({ phone }) => {
 
       <div className="space-y-1 text-sm text-gray-700">
         <p><strong>Hãng:</strong> {phone.manufacturer || "N/A"}</p>
-        <p><strong>Giá:</strong> {phone.final_price ? `${phone.final_price}₫` : "Chưa rõ"}</p>
+        <p><strong>Giá:</strong> {phone.price ? `${phone.price}₫` : "Chưa rõ"}</p>
         <p><strong>ROM:</strong> {phone.rom_preprocessed || phone.rom || "N/A"}</p>
-        <p><strong>RAM:</strong> {phone.memory_internal || "N/A"}</p>
-        <p><strong>Pin:</strong> {phone.battery_capacity ? `${phone.battery_capacity} mAh` : "N/A"}</p>
+        <p><strong>RAM:</strong> {phone.ram || "N/A"}</p>
+        <p><strong>Pin:</strong> {phone.battery ? `${phone.battery} mAh` : "N/A"}</p>
         <p><strong>Màn hình:</strong> {phone.display_size || "N/A"}</p>
         <p><strong>Camera chính:</strong> {phone.camera_primary || "N/A"}</p>
         <p><strong>Camera phụ:</strong> {phone.camera_secondary || "N/A"}</p>
